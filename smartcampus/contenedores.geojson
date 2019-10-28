@@ -16,6 +16,22 @@
           37.87603055364944
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "TTN": "atdfiware-first"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7182416915893555,
+          37.915391064657626
+        ]
+      }
     }
   ]
 }
