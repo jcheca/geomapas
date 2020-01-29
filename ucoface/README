@@ -9,24 +9,24 @@ waypoints. Hemos creado un script con llamadas con el que podemos redirigir el r
 ejemplos. Hemos probado rendimiento y suele fallar, esperemos que sea por el uso de la clave FREE. Nos devuelve un archivo .json 
 con toda la descripción de la ruta que filtraremos para el paso 1.b
 
-1.b: El archivo "generageo.py", lee el archivo "salida.json" generado con las distintas pruebas del procedimiento del punto 1.a para 
-generar un archivo .geojson que podemos representar/cargar en un servidor de mapas que interprete dichos archivos. En estos 
-archivos .geojson tenemos los diferentes waypoint que describen la ruta en base a continuos "LineString". Esto nos sirve para probar 
-las rutas, porque en las llamadas a la librería podemos incluir los "avoidareas" de prueba que son las esquinas (superior izquierda, 
-inferior derecha) de un cuadrado. (pendiente de comprobar si es cuadrado/rectángulo).
+1.b: El archivo "generageo.py", lee el archivo "salida.json" generado con las distintas pruebas del procedimiento del punto 1.a 
+para generar un archivo .geojson que podemos representar/cargar en un servidor de mapas que interprete dichos archivos. En estos 
+archivos .geojson tenemos los diferentes waypoint que describen la ruta en base a continuos "LineString". Esto nos sirve para 
+probar las rutas, porque en las llamadas a la librería podemos incluir los "avoidareas" de prueba que son las esquinas (superior 
+izquierda, inferior derecha) de un cuadrado. (pendiente de comprobar si es cuadrado/rectángulo).
 
-1.c: Los archivos .geojson se interpretan desde github: https://github.com/jcheca/geomapas/tree/master/ucoface, así que es una buena 
-opción para probar las rutas sin software adicional, solo hay que pinchar sobre el archivo.geojson correspondiente; uno de ellos es
-el que tiene representado las restricciones para cada una de las pruebas con líneas de los vértices de los cuadrados correspondientes
-a las "avoidaareas".
+1.c: Los archivos .geojson se interpretan desde github: https://github.com/jcheca/geomapas/tree/master/ucoface, así que es una 
+buena opción para probar las rutas sin software adicional, solo hay que pinchar sobre el archivo.geojson correspondiente; uno de 
+ellos es el que tiene representado las restricciones para cada una de las pruebas con líneas de los vértices de los cuadrados 
+correspondientes a las "avoidaareas".
 
 2.- Mapa de iluminancia
 =======================
 
-2.- Generar una APIREST de consulta de puntos GEO para conocer la iluminancia del punto. Partimos de un mapa de iluminiación y toma
-de datos cada "x" metros, aún sin definir. Generaremos una BBDD y consultas basados en FiWare y protocolo NGSI/V2. La consulta 
-será, del punto determinado (coords) con una distancia determinadai(maxDistance), que determine si encuentra registros dentro de 
-dicha distancia determinada(maxDistance):
+2.- Generar una APIREST de consulta de puntos GEO para conocer la iluminancia del punto. Partimos de un mapa de iluminiación y 
+toma de datos cada "x" metros, aún sin definir. Generaremos una BBDD y consultas basados en FiWare y protocolo NGSI/V2. La 
+consulta será, del punto determinado (coords) con una distancia determinadai(maxDistance), que determine si encuentra registros 
+dentro de dicha distancia determinada(maxDistance):
 
 http://{{host}}:{{port}}/v2/entities?georel=near;maxDistance:100&geometry=point&coords=-4.715269804, 37.915044032
 
