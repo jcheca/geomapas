@@ -7,7 +7,7 @@ curl \
     --data-urlencode 'mode=shortest;pedestrian;' \
     --data-urlencode 'language=es-es' \
     --data-urlencode 'avoidareas=37.8790,-4.7889;37.8788,-4.7883' \
-    --data-urlencode 'apiKey=exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'
+    --data-urlencode 'apiKey=L23exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'
 
 #curl \
 #  -X GET \
