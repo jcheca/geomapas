@@ -1,6 +1,13 @@
 # -*- coding: UTF-8 -*-
 
 import json
+import pymongo
+
+# BBDD
+myclient = pymongo.MongoClient("mongodb://localhost:27018")
+mydb = myclient["orion-illuminance"]
+mycol = mydb["entities"]
+
 
 with open('salida.geojson') as json_file:
     data = json.load(json_file)
@@ -12,8 +19,8 @@ with open('salida.geojson') as json_file:
         latitude = p['geometry']['coordinates'][1]
         illuminance = p['properties']['illuminance']
         coordinates = []
-        coordinates.append(longitude)
         coordinates.append(latitude)
+        coordinates.append(longitude)
         #print(longitude, latitude, illuminance)
         counter += 1
 
@@ -22,7 +29,7 @@ with open('salida.geojson') as json_file:
            "_id": {
               "id": "POL"+str(counter),
               "type": "Illuminance",
-              "servicePath": "/mairena"
+              "servicePath": "/sevilla/mairena"
            },
            "attrNames": ["location", "illuminance"],
            "attrs": {
@@ -41,23 +48,27 @@ with open('salida.geojson') as json_file:
                  "modDate": 1573072685,
                  "value": illuminance,
                  "mdNames": []
-              },
-              "creDate": 1573072685,
-              "modDate": 1573072685,
-              "lastCorrelator": ""
+              }
+           },
+           "creDate": 1573072685,
+           "modDate": 1573072685,
+           "location": {
+              "attrName": "location",
+              "coords": {
+                 "type": "Point",
+                 "coordinates": coordinates
+              }
+           },
+           "lastCorrelator": ""
 
-           }
-
-
-
-
-
-        }
      
-        kk = json.dumps(registro)
-        print("---------------")
+        }
+
+        # Grabar registro
+        x = mycol.insert_one(registro)
+
+        kk = json.dumps(registro,sort_keys=True)
         print(kk)   
-        print("---------------")
 
 
     print (counter)
