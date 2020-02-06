@@ -29,7 +29,7 @@ with open('salida.geojson') as json_file:
            "_id": {
               "id": "POL"+str(counter),
               "type": "Illuminance",
-              "servicePath": "/sevilla/mairena"
+              "servicePath": "/provincia/localidad01"
            },
            "attrNames": ["location", "illuminance"],
            "attrs": {
