@@ -3,7 +3,7 @@
 import glob, os, csv, json
 from decimal import Decimal
 
-os.chdir("mairena")
+os.chdir("localidad01")
 
 features = []
 
