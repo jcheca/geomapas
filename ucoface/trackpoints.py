@@ -24,6 +24,7 @@ for i in range(0,len(data["data"]["attributes"][3]["values"])):
        "marker-color": "#7e7e7e",
        "marker-size": "medium",
        "marker-symbol": "",
+       "date": data["data"]["index"][i]
     }
     geometry = {
       "type": "Point",
@@ -37,8 +38,8 @@ for i in range(0,len(data["data"]["attributes"][3]["values"])):
                
     features.append(punto)
 
-# Time
-# print(data["data"]["index"])
+    # Time
+    #print(data["data"]["index"])
 
 salida = {
    "type": "FeatureCollection",
