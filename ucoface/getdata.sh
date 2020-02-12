@@ -1,4 +1,4 @@
-#curl \
+#(L23)curl \
 #  -X GET \
 #  -H 'Content-Type: *' \
 #  --get 'https://route.ls.hereapi.com/routing/7.2/calculateroute.json' \
@@ -7,7 +7,7 @@
 #    --data-urlencode 'mode=shortest;pedestrian;' \
 #    --data-urlencode 'language=es-es' \
 #    --data-urlencode 'avoidareas=37.8790,-4.7889;37.8788,-4.7883' \
-#    --data-urlencode 'apiKey=L23exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'
+#    --data-urlencode 'apiKey=exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'
 
 #curl \
 #  -X GET \
@@ -32,4 +32,4 @@ curl \
     --data-urlencode 'waypoint5=37.8002,-5.1073' \
     --data-urlencode 'mode=shortest;car;' \
     --data-urlencode 'language=es-es' \
-    --data-urlencode 'apiKey=L23exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'
+    --data-urlencode 'apiKey=exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M'

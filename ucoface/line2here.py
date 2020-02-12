@@ -5,7 +5,7 @@ import json, requests
 URL = "https://route.ls.hereapi.com/routing/7.2/calculateroute.json"
 PARAMS = {
     "mode": "fastest;car;traffic:disabled",
-    "apiKey": "L23exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M"
+    "apiKey": "exA4kNikOQqe476JjytZo2hvfJEswXqSB_xx0-3M"
 }
 count = 0
 with open('outline.geojson') as json_file:
