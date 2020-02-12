@@ -48,6 +48,7 @@ while i < len(data["data"]["attributes"][3]["values"])-1:
     coords_2 = (lat2, lon2)
 
     distance = geopy.distance.vincenty(coords_1, coords_2).m
+    print(distance)
 
     if distance > distMax:    
 
