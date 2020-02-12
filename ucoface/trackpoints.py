@@ -26,7 +26,7 @@ features = []
 # Location
 base = 0
 i = 1
-distMax = 10
+distMax = 5
 orden = 0
 
 while i < len(data["data"]["attributes"][3]["values"])-1:
