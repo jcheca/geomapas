@@ -46,3 +46,9 @@ Necesitamos encontrar librerías para trabajar con GEOS Data para funciones como
 polígono o no.
 
 Ejemplo: https://turfjs.org/getting-started
+
+4.- Utilidades
+==============
+* trackpoint.py: consulta NGSI TSDB/0.2 a QuatumLeap con los movimientos del Tracker, discriminando cada 25 mts
+* point2line.py: convierte la salida de trackpoint.py (.geojson de puntos) a LineString (.geojson de ruta)
+* line2here.py: convierte la salida de point2line.py (.geojson LineString) a LineString generadas por routing HERE

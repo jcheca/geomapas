@@ -3,7 +3,7 @@
 import json
 from pprint import pprint
 
-with open('salida.json') as json_file:
+with open('rutahere.json') as json_file:
     data = json.load(json_file)
     data_string = json.dumps(data)
     decoded = json.loads(data_string)
@@ -19,7 +19,7 @@ with open('salida.json') as json_file:
        "features": [{
           "type": "Feature",
           "properties": {
-              "stroke": "#fefb00",
+              "stroke": "#ff0000",
               "stroke-width": 2,
               "stroke-opacity": 1
           },

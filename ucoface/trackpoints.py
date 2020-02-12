@@ -11,8 +11,8 @@ HEADER = {
     "Fiware-ServicePath": "/rabanales"
 }
 PARAMS = {
-    "fromDate": "2020-02-11T07:00:00.000",
-    "toDate": "2020-02-11T14:00:00.000"
+    "fromDate": "2020-02-12T07:00:00.000",
+    "toDate": "2020-02-12T13:00:00.000"
 }
 
 # sending get request and saving the response as response object 
@@ -26,7 +26,7 @@ features = []
 # Location
 base = 0
 i = 1
-distMax = 50
+distMax = 10
 orden = 0
 
 while i < len(data["data"]["attributes"][3]["values"])-1:
