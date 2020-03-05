@@ -11,8 +11,8 @@ HEADER = {
     "Fiware-ServicePath": "/rabanales"
 }
 PARAMS = {
-    "fromDate": "2020-02-12T07:00:00.000",
-    "toDate": "2020-02-12T13:00:00.000"
+    "fromDate": "2020-03-03T07:00:00.000",
+    "toDate": "2020-03-03T13:00:00.000"
 }
 
 # sending get request and saving the response as response object 
