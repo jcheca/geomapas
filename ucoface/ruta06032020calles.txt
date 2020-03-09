@@ -1,0 +1,1545 @@
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:05:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:05.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:13.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:18.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:28.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:32.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:39.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:44.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T06:06:52.000
+"Avenida María Auxiliadora" - 18 - 2020-03-06T06:07:03.000
+"Avenida María Auxiliadora" - 18 - 2020-03-06T06:07:18.000
+"Avenida de Andalucía" - 48 - 2020-03-06T06:07:34.000
+"Calle D. Dolores Gomez Martinez" -  - 2020-03-06T06:07:42.000
+"Avenida de Andalucía" - 11D - 2020-03-06T06:07:56.000
+"Avenida de Andalucía" -  - 2020-03-06T06:08:09.000
+"Avenida de Andalucía" -  - 2020-03-06T06:08:17.000
+"Avenida de Andalucía" - 45 - 2020-03-06T06:08:25.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T06:08:30.000
+"Avenida de Andalucía" - 45 - 2020-03-06T06:08:44.000
+"Avenida de Andalucía" - 30 - 2020-03-06T06:08:51.000
+ -  - 2020-03-06T06:09:00.000
+"Avenida de Andalucía" - 23 - 2020-03-06T06:09:06.000
+"Avenida de Andalucía" - 21 - 2020-03-06T06:09:11.000
+"Avenida de Andalucía" - 19 - 2020-03-06T06:09:16.000
+"Avenida de Andalucía" - 15 - 2020-03-06T06:09:27.000
+"Avenida de Andalucía" - 9 - 2020-03-06T06:09:32.000
+"Avenida de Andalucía" - 8 - 2020-03-06T06:09:37.000
+"Avenida de Andalucía" - 6 - 2020-03-06T06:09:45.000
+"Avenida de Andalucía" - 5 - 2020-03-06T06:09:52.000
+"Avenida de Andalucía" - 2 - 2020-03-06T06:09:57.000
+"Avenida de Andalucía" - 1 - 2020-03-06T06:10:08.000
+"Avenida Soldevilla Vázquez" - 56B - 2020-03-06T06:10:19.000
+ -  - 2020-03-06T06:10:24.000
+ -  - 2020-03-06T06:10:30.000
+"Avenida Soldevilla Vázquez" - 19T - 2020-03-06T06:10:36.000
+"Avenida Soldevilla Vázquez" - 19A - 2020-03-06T06:10:42.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T06:10:50.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T06:10:56.000
+"Avenida Soldevilla Vázquez" - 17 - 2020-03-06T06:11:02.000
+"Avenida Soldevilla Vázquez" - 30 - 2020-03-06T06:11:07.000
+"Avenida Soldevilla Vázquez" - 26 - 2020-03-06T06:11:12.000
+"Avenida Soldevilla Vázquez" - 22 - 2020-03-06T06:11:17.000
+"Avenida Soldevilla Vázquez" - 18 - 2020-03-06T06:11:21.000
+"Avenida Soldevilla Vázquez" - 11 - 2020-03-06T06:11:27.000
+"Avenida Soldevilla Vázquez" - 7 - 2020-03-06T06:11:33.000
+"Avenida Soldevilla Vázquez" - 10 - 2020-03-06T06:11:38.000
+"Avenida Soldevilla Vázquez" - 10 - 2020-03-06T06:11:44.000
+"Avenida Soldevilla Vázquez" - 1 - 2020-03-06T06:11:51.000
+"Avenida Soldevilla Vázquez" - 1 - 2020-03-06T06:11:59.000
+"Avenida Soldevilla Vázquez" - 1 - 2020-03-06T06:12:06.000
+"Plaza de la Estación" -  - 2020-03-06T06:12:18.000
+"Calle Antonio Machado" - 12 - 2020-03-06T06:12:25.000
+"Calle Antonio Machado" - 8 - 2020-03-06T06:12:33.000
+"Calle Antonio Machado" - 6 - 2020-03-06T06:12:38.000
+"Calle Antonio Machado" - 2 - 2020-03-06T06:12:46.000
+"Calle Antonio Machado" - 1 - 2020-03-06T06:12:58.000
+"Calle Gaitán" - 41 - 2020-03-06T06:13:05.000
+"Calle Gaitán" - 41 - 2020-03-06T06:13:11.000
+"Calle Gaitán" - 39 - 2020-03-06T06:13:17.000
+"Calle Gaitán" - 37 - 2020-03-06T06:13:23.000
+"Calle Gaitán" - 37 - 2020-03-06T06:13:31.000
+"Calle Gaitán" - 22 - 2020-03-06T06:13:36.000
+"Calle Gaitán" - 29 - 2020-03-06T06:13:41.000
+"Calle Gaitán" - 27 - 2020-03-06T06:13:48.000
+"Calle Gaitán" - 20 - 2020-03-06T06:13:58.000
+"Calle Gaitán" - 20 - 2020-03-06T06:14:05.000
+"Calle Gaitán" - 20 - 2020-03-06T06:14:15.000
+"Calle Mesones" - 2D - 2020-03-06T06:14:22.000
+"Calle Fernández de Santiago" - 45 - 2020-03-06T06:14:31.000
+"Calle Fernández de Santiago" - 28 - 2020-03-06T06:14:36.000
+"Calle Fernández de Santiago" - 28 - 2020-03-06T06:14:42.000
+"Calle Fernández de Santiago" - 47 - 2020-03-06T06:14:49.000
+"Calle Fernández de Santiago" - 47 - 2020-03-06T06:14:58.000
+"Calle Fernández de Santiago" - 49 - 2020-03-06T06:15:06.000
+"Calle Fernández de Santiago" - 49 - 2020-03-06T06:15:12.000
+"Calle Fernández de Santiago" - 53 - 2020-03-06T06:15:18.000
+"Calle Fernández de Santiago" - 53 - 2020-03-06T06:15:24.000
+"Calle Fernández de Santiago" - 53 - 2020-03-06T06:15:32.000
+"Calle Fernández de Santiago" - 53 - 2020-03-06T06:15:37.000
+"Calle Pintor Pablo Neruda" - 1D - 2020-03-06T06:15:48.000
+"Calle Pintor Pablo Neruda" - 1 - 2020-03-06T06:15:53.000
+"Calle Fernández de Santiago" - 59 - 2020-03-06T06:15:58.000
+"Calle Fernández de Santiago" - 59 - 2020-03-06T06:16:07.000
+"Calle Fernández de Santiago" - 65 - 2020-03-06T06:16:13.000
+"Calle Fernández de Santiago" - 65 - 2020-03-06T06:16:18.000
+"Calle Fernández de Santiago" - 67 - 2020-03-06T06:16:23.000
+"Calle Fernández de Santiago" - 67 - 2020-03-06T06:16:34.000
+"Calle Fernández de Santiago" - 67 - 2020-03-06T06:16:40.000
+"Calle Fernández de Santiago" - 67 - 2020-03-06T06:16:45.000
+"Calle Fernández de Santiago" - 56 - 2020-03-06T06:16:50.000
+"Calle Fernández de Santiago" - 69 - 2020-03-06T06:16:58.000
+"Calle Fernández de Santiago" - 73 - 2020-03-06T06:17:03.000
+"Calle Fernández de Santiago" - 73 - 2020-03-06T06:17:08.000
+"Calle Fernández de Santiago" - 77 - 2020-03-06T06:17:15.000
+"Calle Fernández de Santiago" - 77 - 2020-03-06T06:17:22.000
+"Calle Fernández de Santiago" - 66 - 2020-03-06T06:17:30.000
+"Calle Fernández de Santiago" - 66 - 2020-03-06T06:17:38.000
+"Calle Fernández de Santiago" - 85 - 2020-03-06T06:17:44.000
+"Calle Fernández de Santiago" - 72 - 2020-03-06T06:17:52.000
+"Calle Fernández de Santiago" - 72 - 2020-03-06T06:18:02.000
+"Calle Fernández de Santiago" - 91 - 2020-03-06T06:18:10.000
+"Calle Fernández de Santiago" - 76D - 2020-03-06T06:18:15.000
+"Calle Fernández de Santiago" - 80 - 2020-03-06T06:18:25.000
+"Calle Fernández de Santiago" - 99 - 2020-03-06T06:18:31.000
+"Calle Fernández de Santiago" - 99 - 2020-03-06T06:18:38.000
+"Calle Fernández de Santiago" - 101 - 2020-03-06T06:18:43.000
+"Calle Fernández de Santiago" - 86 - 2020-03-06T06:18:50.000
+"Calle Fernández de Santiago" - 103 - 2020-03-06T06:18:55.000
+"Calle Fernández de Santiago" - 92 - 2020-03-06T06:19:02.000
+"Calle Fernández de Santiago" - 96 - 2020-03-06T06:19:08.000
+"Calle Fernández de Santiago" - 96 - 2020-03-06T06:19:14.000
+"Calle Fernández de Santiago" - 100 - 2020-03-06T06:19:21.000
+"Calle Fernández de Santiago" - 109A - 2020-03-06T06:19:26.000
+"Calle Fernández de Santiago" - 109A - 2020-03-06T06:19:31.000
+"Calle Fernández de Santiago" - 102 - 2020-03-06T06:19:35.000
+"Calle Fernández de Santiago" - 102 - 2020-03-06T06:19:41.000
+"Calle Fernández de Santiago" - 104 - 2020-03-06T06:19:49.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:19:58.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:20:03.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:20:11.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:20:19.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:20:38.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:20:58.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:21:18.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:21:38.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:21:46.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:21:53.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:02.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:07.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:15.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:21.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:30.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:38.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:47.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:22:53.000
+"Calle Fuente Palmera" -  - 2020-03-06T06:23:03.000
+"Avenida Blas Infante" - 100 - 2020-03-06T06:23:10.000
+"Avenida Blas Infante" - 91 - 2020-03-06T06:23:18.000
+"Avenida Blas Infante" - 89 - 2020-03-06T06:23:25.000
+"Avenida Blas Infante" - 85 - 2020-03-06T06:23:32.000
+"Avenida Blas Infante" - 96 - 2020-03-06T06:23:38.000
+"Avenida Blas Infante" - 94D - 2020-03-06T06:23:45.000
+"Avenida Blas Infante" - 94D - 2020-03-06T06:23:51.000
+"Avenida Blas Infante" - 90 - 2020-03-06T06:23:56.000
+"Avenida Blas Infante" - 90 - 2020-03-06T06:24:01.000
+"Avenida Blas Infante" - 90 - 2020-03-06T06:24:05.000
+"Avenida Blas Infante" - 88 - 2020-03-06T06:24:17.000
+"Avenida Blas Infante" - 84 - 2020-03-06T06:24:21.000
+"Avenida Blas Infante" - 82 - 2020-03-06T06:24:28.000
+"Avenida Blas Infante" - 82 - 2020-03-06T06:24:34.000
+"Avenida Blas Infante" - 80 - 2020-03-06T06:24:45.000
+"Avenida Blas Infante" - 76 - 2020-03-06T06:24:50.000
+"Avenida Blas Infante" - 76 - 2020-03-06T06:24:56.000
+"Avenida Blas Infante" - 74 - 2020-03-06T06:25:03.000
+"Avenida Blas Infante" - 74 - 2020-03-06T06:25:08.000
+"Avenida Blas Infante" - 74 - 2020-03-06T06:25:18.000
+"Avenida Blas Infante" - 74 - 2020-03-06T06:25:24.000
+"Avenida Blas Infante" - 74 - 2020-03-06T06:25:29.000
+"Avenida Blas Infante" - 72 - 2020-03-06T06:25:36.000
+"Avenida Blas Infante" - 72 - 2020-03-06T06:25:47.000
+"Avenida Blas Infante" - 70 - 2020-03-06T06:25:58.000
+"Avenida Blas Infante" - 70 - 2020-03-06T06:26:05.000
+"Avenida Blas Infante" - 51 - 2020-03-06T06:26:12.000
+"Avenida Blas Infante" - 68 - 2020-03-06T06:26:18.000
+"Avenida Blas Infante" - 62 - 2020-03-06T06:26:30.000
+"Avenida Blas Infante" - 60 - 2020-03-06T06:26:35.000
+"Avenida Blas Infante" - 60 - 2020-03-06T06:26:41.000
+"Avenida Blas Infante" - 54 - 2020-03-06T06:26:53.000
+"Avenida Blas Infante" - 54 - 2020-03-06T06:26:58.000
+"Avenida Blas Infante" - 54 - 2020-03-06T06:27:05.000
+"Avenida Blas Infante" - 52 - 2020-03-06T06:27:14.000
+"Avenida Blas Infante" - 50 - 2020-03-06T06:27:25.000
+"Avenida Blas Infante" - 46 - 2020-03-06T06:27:39.000
+"Avenida Blas Infante" - 44 - 2020-03-06T06:27:45.000
+"Avenida Blas Infante" - 44 - 2020-03-06T06:27:51.000
+"Avenida Blas Infante" - 42 - 2020-03-06T06:27:58.000
+"Avenida Blas Infante" - 40 - 2020-03-06T06:28:10.000
+"Avenida Blas Infante" - 40 - 2020-03-06T06:28:17.000
+"Avenida Blas Infante" - 25 - 2020-03-06T06:28:22.000
+"Plaza del Ayuntamiento" - 3 - 2020-03-06T06:28:29.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:28:36.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:28:41.000
+"Avenida Blas Infante" - 34 - 2020-03-06T06:28:46.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:28:51.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:28:56.000
+"Calle Luis Soldevilla" - 3 - 2020-03-06T06:29:03.000
+"Plaza de la Constitución" -  - 2020-03-06T06:29:08.000
+"Calle Luis Soldevilla" - 9 - 2020-03-06T06:29:15.000
+"Plaza de la Constitución" - 6 - 2020-03-06T06:29:22.000
+"Plaza de la Constitución" - 6 - 2020-03-06T06:29:27.000
+"Plaza de la Constitución" - 5 - 2020-03-06T06:29:32.000
+"Plaza de la Constitución" - 4D - 2020-03-06T06:29:38.000
+"Plaza de la Constitución" - 3 - 2020-03-06T06:29:44.000
+"Plaza de la Constitución" - 2D - 2020-03-06T06:29:50.000
+"Plaza de la Constitución" - 2D - 2020-03-06T06:29:56.000
+"Plaza de la Constitución" - 2 - 2020-03-06T06:30:02.000
+"Plaza de la Constitución" - 1 - 2020-03-06T06:30:09.000
+"Plaza de la Constitución" -  - 2020-03-06T06:30:16.000
+"Plaza de la Constitución" -  - 2020-03-06T06:30:23.000
+"Plaza de la Constitución" -  - 2020-03-06T06:30:28.000
+"Calle Fernández de Santiago" - 18 - 2020-03-06T06:30:35.000
+"Calle Fernández de Santiago" - 16 - 2020-03-06T06:30:42.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T06:30:47.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T06:30:53.000
+"Calle Fernández de Santiago" - 12 - 2020-03-06T06:31:02.000
+"Calle Fernández de Santiago" - 12 - 2020-03-06T06:31:12.000
+"Calle Fernández de Santiago" - 25 - 2020-03-06T06:31:18.000
+"Calle Fernández de Santiago" - 25 - 2020-03-06T06:31:24.000
+"Calle Fernández de Santiago" - 8 - 2020-03-06T06:31:29.000
+"Calle Fernández de Santiago" - 19 - 2020-03-06T06:31:43.000
+"Calle Fernández de Santiago" - 4 - 2020-03-06T06:31:52.000
+"Calle Fernández de Santiago" - 11 - 2020-03-06T06:31:58.000
+"Calle Fernández de Santiago" - 11 - 2020-03-06T06:32:03.000
+"Calle Fernández de Santiago" - 2 - 2020-03-06T06:32:09.000
+"Calle Fernández de Santiago" - 5 - 2020-03-06T06:32:17.000
+"Calle Fernández de Santiago" - 5 - 2020-03-06T06:32:27.000
+"Plaza de la Luna" - 3 - 2020-03-06T06:32:36.000
+"Plaza de la Luna" - 3 - 2020-03-06T06:32:49.000
+"Calle de la Lonja Iglesia" - 4 - 2020-03-06T06:32:56.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:33:16.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:22.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:29.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:35.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:42.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:53.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:33:58.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:04.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:10.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:17.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:23.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:29.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:41.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:50.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:34:55.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:35:02.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:35:12.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:35:18.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:35:29.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T06:35:34.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:35:41.000
+"Calle Fernández de Santiago" - 23 - 2020-03-06T06:35:47.000
+"Calle Fernández de Santiago" - 23 - 2020-03-06T06:35:54.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T06:36:08.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T06:36:18.000
+"Calle Fernández de Santiago" - 23 - 2020-03-06T06:36:29.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T06:36:37.000
+"Plaza de la Luna" - 1 - 2020-03-06T06:36:43.000
+"Plaza de la Luna" - 1 - 2020-03-06T06:36:48.000
+"Plaza de la Luna" - 1 - 2020-03-06T06:36:53.000
+"Plaza de la Luna" - 1 - 2020-03-06T06:36:58.000
+"Plaza de la Luna" - 3 - 2020-03-06T06:37:05.000
+"Plaza de la Luna" -  - 2020-03-06T06:37:11.000
+"Calle Fernández de Santiago" - 5 - 2020-03-06T06:37:16.000
+"Calle Fernández de Santiago" - 5 - 2020-03-06T06:37:23.000
+"Calle Fernández de Santiago" - 11 - 2020-03-06T06:37:32.000
+"Calle Fernández de Santiago" - 11 - 2020-03-06T06:37:37.000
+"Plaza de los Pósitos" - 6 - 2020-03-06T06:37:45.000
+"Plaza Positos" - 5 - 2020-03-06T06:37:51.000
+"Plaza Positos" - 5 - 2020-03-06T06:37:56.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:38:02.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:38:09.000
+"Plaza de los Pósitos" - 8 - 2020-03-06T06:38:14.000
+"Plaza de los Pósitos" - 8 - 2020-03-06T06:38:19.000
+"Plaza de los Pósitos" - 9 - 2020-03-06T06:38:24.000
+"Plaza de los Pósitos" - 10 - 2020-03-06T06:38:31.000
+"Avenida Blas Infante" - 1 - 2020-03-06T06:38:36.000
+"Avenida Blas Infante" - 1 - 2020-03-06T06:38:42.000
+"Avenida Blas Infante" - 4 - 2020-03-06T06:38:48.000
+"Avenida Blas Infante" - 4 - 2020-03-06T06:39:02.000
+"Avenida Blas Infante" - 10 - 2020-03-06T06:39:07.000
+"Avenida Blas Infante" - 10 - 2020-03-06T06:39:13.000
+"Avenida Blas Infante" - 9 - 2020-03-06T06:39:25.000
+"Avenida Blas Infante" - 11 - 2020-03-06T06:39:30.000
+"Avenida Blas Infante" - 11 - 2020-03-06T06:39:35.000
+"Avenida Blas Infante" - 16 - 2020-03-06T06:39:50.000
+"Avenida Blas Infante" - 22 - 2020-03-06T06:39:56.000
+"Avenida Blas Infante" - 22 - 2020-03-06T06:40:03.000
+"Avenida Blas Infante" - 22 - 2020-03-06T06:40:09.000
+"Avenida Blas Infante" - 21 - 2020-03-06T06:40:14.000
+"Avenida Blas Infante" - 26 - 2020-03-06T06:40:20.000
+"Avenida Blas Infante" - 26 - 2020-03-06T06:40:25.000
+"Avenida Blas Infante" - 26 - 2020-03-06T06:40:35.000
+"Avenida Blas Infante" - 26 - 2020-03-06T06:40:39.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:40:47.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:40:53.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:40:59.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:41:10.000
+"Plaza de la Constitución" -  - 2020-03-06T06:41:20.000
+"Plaza de la Constitución" - 6 - 2020-03-06T06:41:27.000
+"Plaza de la Constitución" - 6 - 2020-03-06T06:41:33.000
+"Plaza de la Constitución" - 5 - 2020-03-06T06:41:45.000
+"Plaza de la Constitución" - 4D - 2020-03-06T06:41:50.000
+"Plaza de la Constitución" - 3 - 2020-03-06T06:41:55.000
+"Plaza de la Constitución" - 2D - 2020-03-06T06:42:01.000
+"Plaza de la Constitución" - 2 - 2020-03-06T06:42:12.000
+"Plaza de la Constitución" -  - 2020-03-06T06:42:18.000
+"Plaza de la Constitución" -  - 2020-03-06T06:42:24.000
+"Calle Fernández de Santiago" - 20 - 2020-03-06T06:42:31.000
+"Calle Fernández de Santiago" - 18 - 2020-03-06T06:42:37.000
+"Calle Fernández de Santiago" - 18 - 2020-03-06T06:42:44.000
+"Calle Fernández de Santiago" - 16 - 2020-03-06T06:42:53.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T06:42:58.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T06:43:05.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T06:43:13.000
+"Calle Betis" - 1 - 2020-03-06T06:43:18.000
+"Calle Betis" - 1 - 2020-03-06T06:43:23.000
+"Calle Fernández de Santiago" - 8 - 2020-03-06T06:43:30.000
+"Calle Fernández de Santiago" - 6 - 2020-03-06T06:43:37.000
+"Calle Fernández de Santiago" - 6 - 2020-03-06T06:43:42.000
+"Calle Fernández de Santiago" - 4 - 2020-03-06T06:43:51.000
+"Plaza de los Pósitos" - 6 - 2020-03-06T06:43:58.000
+"Plaza de los Pósitos" - 6A - 2020-03-06T06:44:09.000
+"Plaza de los Pósitos" - 7 - 2020-03-06T06:44:13.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:44:20.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:44:26.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:44:32.000
+"Plaza de los Pósitos" - 9 - 2020-03-06T06:44:42.000
+"Plaza de los Pósitos" - 11 - 2020-03-06T06:44:55.000
+"Plaza de los Pósitos" - 1 - 2020-03-06T06:45:02.000
+"Calle Morería" - 2 - 2020-03-06T06:45:09.000
+"Calle Morería" - 3 - 2020-03-06T06:45:15.000
+"Calle Morería" - 5 - 2020-03-06T06:45:20.000
+"Calle Morería" - 7 - 2020-03-06T06:45:28.000
+"Calle Morería" - 7 - 2020-03-06T06:45:37.000
+"Calle Morería" - 9D - 2020-03-06T06:45:43.000
+"Calle Morería" - 9D - 2020-03-06T06:45:49.000
+"Calle Morería" - 13 - 2020-03-06T06:46:10.000
+"Calle Morería" - 19 - 2020-03-06T06:46:17.000
+"Calle Morería" - 19 - 2020-03-06T06:46:25.000
+"Calle Morería" - 19 - 2020-03-06T06:46:35.000
+"Calle Morería" - 19 - 2020-03-06T06:46:48.000
+"Calle Morería" - 19 - 2020-03-06T06:46:53.000
+"Calle Morería" - 19 - 2020-03-06T06:46:58.000
+"Calle Morería" - 19 - 2020-03-06T06:47:18.000
+"Calle Morería" - 19 - 2020-03-06T06:47:35.000
+"Calle Morería" - 19 - 2020-03-06T06:47:48.000
+"Calle Morería" - 19 - 2020-03-06T06:47:53.000
+"Calle Morería" - 19 - 2020-03-06T06:48:01.000
+"Calle Morería" - 15 - 2020-03-06T06:48:09.000
+"Calle Morería" - 15 - 2020-03-06T06:48:20.000
+"Calle Morería" - 8 - 2020-03-06T06:48:30.000
+"Calle Morería" - 8 - 2020-03-06T06:48:45.000
+"Calle Morería" - 5 - 2020-03-06T06:48:55.000
+"Calle Morería" - 3 - 2020-03-06T06:49:09.000
+"Plaza de los Pósitos" - 1 - 2020-03-06T06:49:15.000
+"Calle Morería" - 1 - 2020-03-06T06:49:24.000
+"Plaza de los Pósitos" - 11 - 2020-03-06T06:49:30.000
+"Plaza de los Pósitos" - 11 - 2020-03-06T06:49:36.000
+"Calle Arquito" -  - 2020-03-06T06:49:42.000
+"Plaza de los Pósitos" - 10 - 2020-03-06T06:49:55.000
+"Plaza de los Pósitos" -  - 2020-03-06T06:50:01.000
+"Plaza de los Pósitos" - 1 - 2020-03-06T06:50:07.000
+"Avenida Blas Infante" - 2D - 2020-03-06T06:50:14.000
+"Avenida Blas Infante" - 2D - 2020-03-06T06:50:20.000
+"Calle Guadalvaida" - 6 - 2020-03-06T06:50:28.000
+"Avenida Blas Infante" - 4 - 2020-03-06T06:50:35.000
+"Avenida Blas Infante" - 4 - 2020-03-06T06:50:47.000
+"Calle Guadalvaida" - 1 - 2020-03-06T06:51:06.000
+"Plaza Jaén Benavides" - 3 - 2020-03-06T06:51:13.000
+"Plaza Jaén Benavides" - 3 - 2020-03-06T06:51:32.000
+"Plaza Jaén Benavides" - 9 - 2020-03-06T06:51:44.000
+"Plaza Jaén Benavides" - 9 - 2020-03-06T06:51:49.000
+"Plaza Jaén Benavides" - 9 - 2020-03-06T06:51:57.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:03.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:08.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:15.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:25.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:30.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:37.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:42.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:50.000
+"Plaza Jaén Benavides" - 11D - 2020-03-06T06:52:58.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:04.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:09.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:15.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:20.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:27.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:32.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:38.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:53:46.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:53:59.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:54:04.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:54:18.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:54:23.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:54:30.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:54:35.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:54:42.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:54:49.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:54:54.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:55:00.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:55:05.000
+"Prolongación Teodoro Domínguez" - 12 - 2020-03-06T06:55:16.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:55:23.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:55:28.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:55:42.000
+"Plaza Jaén Benavides" - 12 - 2020-03-06T06:55:52.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:55:58.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:56:04.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:56:12.000
+"Pasaje Ciudad de Rubí" - 10 - 2020-03-06T06:56:18.000
+"Plaza Jaén Benavides" - 11 - 2020-03-06T06:56:24.000
+"Plaza Jaén Benavides" - 11 - 2020-03-06T06:56:32.000
+"Plaza Jaén Benavides" - 9 - 2020-03-06T06:56:38.000
+"Plaza Jaén Benavides" - 9 - 2020-03-06T06:56:45.000
+"Plaza Jaén Benavides" - 5 - 2020-03-06T06:56:55.000
+"Plaza Jaén Benavides" - 4 - 2020-03-06T06:57:02.000
+"Plaza Jaén Benavides" - 4 - 2020-03-06T06:57:06.000
+"Plaza Jaén Benavides" - 4 - 2020-03-06T06:57:20.000
+"Plaza Jaén Benavides" - 4 - 2020-03-06T06:57:28.000
+"Plaza Jaén Benavides" - 4 - 2020-03-06T06:57:38.000
+"Calle Las Tercias" - 5 - 2020-03-06T06:57:42.000
+"Calle Las Tercias" - 5 - 2020-03-06T06:57:49.000
+"Calle Las Tercias" - 5 - 2020-03-06T06:57:53.000
+"Calle Las Tercias" - 3 - 2020-03-06T06:58:00.000
+"Calle Las Tercias" - 1 - 2020-03-06T06:58:05.000
+"Calle Las Tercias" - 1 - 2020-03-06T06:58:12.000
+"Avenida Blas Infante" - 12 - 2020-03-06T06:58:19.000
+"Avenida Blas Infante" - 14 - 2020-03-06T06:58:27.000
+"Avenida Blas Infante" - 14 - 2020-03-06T06:58:32.000
+"Avenida Blas Infante" - 16 - 2020-03-06T06:58:37.000
+"Avenida Blas Infante" - 16 - 2020-03-06T06:58:42.000
+"Avenida Blas Infante" - 18 - 2020-03-06T06:58:47.000
+"Avenida Blas Infante" - 20 - 2020-03-06T06:58:54.000
+"Avenida Blas Infante" - 20 - 2020-03-06T06:59:03.000
+"Avenida Blas Infante" - 21 - 2020-03-06T06:59:09.000
+"Avenida Blas Infante" - 21 - 2020-03-06T06:59:13.000
+"Avenida Blas Infante" - 23 - 2020-03-06T06:59:24.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:59:32.000
+"Avenida Blas Infante" - 28 - 2020-03-06T06:59:37.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:59:46.000
+"Plaza del Ayuntamiento" - 1 - 2020-03-06T06:59:51.000
+"Plaza de la Constitución" -  - 2020-03-06T06:59:56.000
+"Plaza de la Constitución" -  - 2020-03-06T07:00:01.000
+"Plaza de la Constitución" -  - 2020-03-06T07:00:06.000
+"Plaza de la Constitución" - 6 - 2020-03-06T07:00:14.000
+"Plaza de la Constitución" - 6 - 2020-03-06T07:00:20.000
+"Plaza de la Constitución" - 4D - 2020-03-06T07:00:30.000
+"Plaza de la Constitución" - 2D - 2020-03-06T07:00:37.000
+"Plaza de la Constitución" - 2D - 2020-03-06T07:00:42.000
+"Plaza de la Constitución" - 2 - 2020-03-06T07:00:48.000
+"Plaza de la Constitución" - 1 - 2020-03-06T07:00:53.000
+"Plaza de la Constitución" -  - 2020-03-06T07:00:59.000
+"Calle Fernández de Santiago" - 24 - 2020-03-06T07:01:06.000
+"Plaza de la Constitución" -  - 2020-03-06T07:01:12.000
+"Plaza de la Constitución" -  - 2020-03-06T07:01:18.000
+"Calle Fernández de Santiago" - 18 - 2020-03-06T07:01:24.000
+"Calle Fernández de Santiago" - 16 - 2020-03-06T07:01:29.000
+"Calle Fernández de Santiago" - 16 - 2020-03-06T07:01:36.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T07:01:40.000
+"Calle Fernández de Santiago" - 14 - 2020-03-06T07:01:47.000
+"Calle Fernández de Santiago" - 12 - 2020-03-06T07:01:54.000
+"Calle Fernández de Santiago" - 12 - 2020-03-06T07:02:00.000
+"Calle Fernández de Santiago" - 25 - 2020-03-06T07:02:05.000
+"Calle Fernández de Santiago" - 27 - 2020-03-06T07:02:10.000
+"Calle Fernández de Santiago" - 27 - 2020-03-06T07:02:15.000
+"Calle Jose Maria Garcia Benavides" - 1 - 2020-03-06T07:02:20.000
+"Calle Jose Maria Garcia Benavides" - 3 - 2020-03-06T07:02:25.000
+"Calle Jose Maria Garcia Benavides" - 7 - 2020-03-06T07:02:30.000
+"Calle Jose Maria Garcia Benavides" - 7 - 2020-03-06T07:02:35.000
+"Calle Jose Maria Garcia Benavides" - 7 - 2020-03-06T07:02:44.000
+"Calle Gaitán" - 2 - 2020-03-06T07:02:50.000
+"Calle Gaitán" - 2 - 2020-03-06T07:02:57.000
+"Calle Santiago" - 1D - 2020-03-06T07:03:03.000
+"Calle Santiago" - 1D - 2020-03-06T07:03:10.000
+"Calle Santiago" - 1 - 2020-03-06T07:03:16.000
+"Calle Santiago" - 4 - 2020-03-06T07:03:30.000
+"Calle Santiago" -  - 2020-03-06T07:03:35.000
+"Calle Santiago" -  - 2020-03-06T07:03:47.000
+"Calle Santiago" -  - 2020-03-06T07:03:53.000
+"Calle Triana" - 22 - 2020-03-06T07:04:07.000
+"Calle Triana" - 22 - 2020-03-06T07:04:13.000
+"Calle Triana" - 20 - 2020-03-06T07:04:19.000
+"Calle Triana" - 20 - 2020-03-06T07:04:24.000
+"Calle Triana" - 18 - 2020-03-06T07:04:29.000
+"Calle Triana" - 18 - 2020-03-06T07:04:36.000
+"Calle Triana" - 14 - 2020-03-06T07:04:41.000
+"Calle Triana" - 10 - 2020-03-06T07:04:48.000
+"Calle Triana" - 8 - 2020-03-06T07:04:54.000
+"Calle Triana" - 8 - 2020-03-06T07:05:04.000
+"Calle Fernández de Santiago" - 3 - 2020-03-06T07:05:19.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T07:05:24.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T07:05:33.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:05:38.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:05:44.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:05:50.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:05:57.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:02.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:15.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:21.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:27.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:32.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:37.000
+"Calle de la Lonja Iglesia" - 2 - 2020-03-06T07:06:45.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T07:06:54.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T07:07:04.000
+"Calle de la Lonja Iglesia" -  - 2020-03-06T07:07:11.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T07:07:17.000
+"Calle de la Lonja Iglesia" - 3 - 2020-03-06T07:07:27.000
+"Calle Triana" - 8 - 2020-03-06T07:07:33.000
+"Calle Triana" - 1 - 2020-03-06T07:07:38.000
+"Plaza de Lavaderos" - 4 - 2020-03-06T07:07:45.000
+"Plaza de Lavaderos" - 4 - 2020-03-06T07:07:52.000
+"Calle Santiago" - 11 - 2020-03-06T07:07:58.000
+"Calle Santiago" - 13 - 2020-03-06T07:08:07.000
+"Calle Santiago" - 5 - 2020-03-06T07:08:14.000
+"Calle Gustavo Adolfo Bécquer" - 2 - 2020-03-06T07:08:20.000
+"Calle Santiago" - 8 - 2020-03-06T07:08:25.000
+"Calle Santiago" -  - 2020-03-06T07:08:30.000
+"Calle Santiago" - 1D - 2020-03-06T07:08:36.000
+"Calle Gaitán" - 2 - 2020-03-06T07:08:44.000
+"Calle Gaitán" - 12 - 2020-03-06T07:08:49.000
+"Calle Gaitán" - 16 - 2020-03-06T07:08:55.000
+"Calle Gaitán" - 16 - 2020-03-06T07:09:04.000
+"Calle de la Villa" - 1 - 2020-03-06T07:09:09.000
+"Calle de la Villa" - 3 - 2020-03-06T07:09:15.000
+"Calle de la Villa" - 5 - 2020-03-06T07:09:21.000
+"Calle de la Villa" - 2D - 2020-03-06T07:09:26.000
+"Calle de la Villa" - 10 - 2020-03-06T07:09:32.000
+"Calle de la Villa" - 12 - 2020-03-06T07:09:38.000
+"Calle de la Villa" - 12 - 2020-03-06T07:09:47.000
+"Calle Antonio Machado" - 14 - 2020-03-06T07:09:53.000
+"Calle Antonio Machado" - 14 - 2020-03-06T07:09:58.000
+"Calle Antonio Machado" - 14 - 2020-03-06T07:10:07.000
+"Avenida Soldevilla Vázquez" - 6 - 2020-03-06T07:10:15.000
+"Avenida Soldevilla Vázquez" - 8 - 2020-03-06T07:10:20.000
+"Avenida Soldevilla Vázquez" - 12 - 2020-03-06T07:10:25.000
+"Avenida Soldevilla Vázquez" - 14 - 2020-03-06T07:10:30.000
+"Calle Miguel Hernández" - 5 - 2020-03-06T07:10:37.000
+"Avenida Soldevilla Vázquez" - 18 - 2020-03-06T07:10:42.000
+"Avenida Soldevilla Vázquez" - 22 - 2020-03-06T07:10:52.000
+"Avenida Soldevilla Vázquez" - 30 - 2020-03-06T07:10:58.000
+"Avenida Soldevilla Vázquez" - 19D - 2020-03-06T07:11:03.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T07:11:12.000
+"Avenida Soldevilla Vázquez" - 42 - 2020-03-06T07:11:27.000
+"Avenida Soldevilla Vázquez" - 48A - 2020-03-06T07:11:45.000
+"Avenida de Andalucía" - 3 - 2020-03-06T07:11:56.000
+"Avenida de Andalucía" - 6 - 2020-03-06T07:12:09.000
+"Avenida de Andalucía" - 14 - 2020-03-06T07:12:15.000
+"Avenida de Andalucía" - 16 - 2020-03-06T07:12:20.000
+"Avenida de Andalucía" - 19 - 2020-03-06T07:12:25.000
+"Avenida de Andalucía" - 9D - 2020-03-06T07:12:33.000
+ -  - 2020-03-06T07:12:43.000
+"Avenida de Andalucía" - 30 - 2020-03-06T07:12:59.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T07:13:07.000
+"Avenida de Andalucía" -  - 2020-03-06T07:13:15.000
+"Avenida de Andalucía" -  - 2020-03-06T07:13:25.000
+"Avenida de Andalucía" -  - 2020-03-06T07:13:31.000
+"Avenida de Andalucía" - 11D - 2020-03-06T07:13:39.000
+"Avenida de Andalucía" - 48 - 2020-03-06T07:13:45.000
+"Avenida María Auxiliadora" -  - 2020-03-06T07:14:00.000
+"Avenida María Auxiliadora" - 18 - 2020-03-06T07:14:10.000
+"Avenida María Auxiliadora" -  - 2020-03-06T07:14:17.000
+ -  - 2020-03-06T07:14:23.000
+ -  - 2020-03-06T07:14:30.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:14:34.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:14:41.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:15:02.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:15:18.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:15:38.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:15:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:16:18.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:16:38.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:16:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:17:18.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:17:38.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:17:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:18:18.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:18:43.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:18:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T07:19:23.000
+ -  - 2020-03-06T09:10:41.000
+"Avenida de Andalucía" - 23 - 2020-03-06T09:10:47.000
+"Avenida de Andalucía" - 21 - 2020-03-06T09:10:53.000
+"Avenida de Andalucía" - 21 - 2020-03-06T09:10:59.000
+"Avenida de Andalucía" - 16 - 2020-03-06T09:11:05.000
+"Avenida de Andalucía" - 5 - 2020-03-06T09:11:19.000
+"Avenida de Andalucía" - 5 - 2020-03-06T09:11:25.000
+"Avenida de Andalucía" - 5 - 2020-03-06T09:11:30.000
+"Avenida de Andalucía" - 2 - 2020-03-06T09:11:49.000
+ -  - 2020-03-06T09:11:55.000
+"Calle Rafael Alberti" -  - 2020-03-06T09:12:06.000
+"Avenida Soldevilla Vázquez" - 19T - 2020-03-06T09:12:14.000
+"Avenida Soldevilla Vázquez" - 19A - 2020-03-06T09:12:19.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T09:12:34.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T09:12:44.000
+"Avenida Soldevilla Vázquez" - 19D - 2020-03-06T09:12:49.000
+"Avenida Soldevilla Vázquez" - 17 - 2020-03-06T09:12:56.000
+"Avenida Soldevilla Vázquez" - 15 - 2020-03-06T09:13:02.000
+"Avenida Soldevilla Vázquez" - 13D - 2020-03-06T09:13:08.000
+"Avenida Soldevilla Vázquez" - 13 - 2020-03-06T09:13:13.000
+"Avenida Soldevilla Vázquez" - 9 - 2020-03-06T09:13:20.000
+"Avenida Soldevilla Vázquez" - 7 - 2020-03-06T09:13:27.000
+"Avenida Soldevilla Vázquez" - 5 - 2020-03-06T09:13:32.000
+"Plaza de la Estación" - 3 - 2020-03-06T09:13:38.000
+"Plaza de la Estación" - 2 - 2020-03-06T09:13:43.000
+"Avenida de la Estación" - 55 - 2020-03-06T09:13:54.000
+"Calle Los Molinos" - 33 - 2020-03-06T09:14:03.000
+"Avenida de la Estación" - 38 - 2020-03-06T09:14:08.000
+"Avenida de la Estación" - 38 - 2020-03-06T09:14:14.000
+"Avenida de la Estación" - 38 - 2020-03-06T09:14:22.000
+"Calle Manuel de Falla" - 14 - 2020-03-06T09:14:31.000
+"Calle Manuel de Falla" - 14 - 2020-03-06T09:14:54.000
+ -  - 2020-03-06T10:04:26.000
+ -  - 2020-03-06T10:04:33.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:04:37.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:04:49.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:04:55.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:05:00.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:05:05.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:05:17.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:05:26.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:05:33.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:05:41.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:05:50.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:06:01.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:06:09.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:06:19.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:06:29.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:06:36.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:06:44.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:06:54.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:06:59.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:07:07.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:07:20.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:07:26.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:07:41.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:07:50.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:07:57.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:08:02.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:08:08.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:08:13.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:08:18.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:08:27.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:08:34.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:08:41.000
+ -  - 2020-03-06T10:09:06.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:09:14.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:09:23.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:09:30.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:09:35.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:09:45.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:09:53.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:01.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:13.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:21.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:33.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:41.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:10:53.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:05.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:10.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:18.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:26.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:41.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:11:51.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:01.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:08.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:14.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:21.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:29.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:37.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:43.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:48.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:12:55.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:00.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:05.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:11.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:25.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:29.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:36.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:46.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:51.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:13:58.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:04.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:11.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:21.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:27.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:32.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:39.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:14:49.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:14:57.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:15:02.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:15:06.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:15:12.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:15:17.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:15:22.000
+"Calle Fuente Palmera" - 13 - 2020-03-06T10:15:28.000
+ -  - 2020-03-06T10:15:33.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:15:42.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:15:47.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:15:53.000
+ -  - 2020-03-06T10:16:04.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:16:10.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:16:16.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:16:21.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:16:26.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:16:31.000
+ -  - 2020-03-06T10:16:37.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:16:43.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:16:48.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:16:53.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:16:59.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:17:04.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:17:10.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:17:17.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:17:22.000
+ -  - 2020-03-06T10:17:33.000
+ -  - 2020-03-06T10:17:39.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:17:49.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:18:01.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:18:08.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:18:14.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:20.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:27.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:32.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:37.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:47.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:53.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:18:59.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:19:12.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:19:19.000
+"Calle Montilla" - 97 - 2020-03-06T10:19:30.000
+"Calle Montilla" - 97 - 2020-03-06T10:19:40.000
+"Calle Montilla" - 97 - 2020-03-06T10:19:52.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:20:00.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:20:04.000
+ -  - 2020-03-06T10:20:10.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:20:17.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:20:22.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:20:27.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:20:35.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:20:43.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:20:47.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:20:56.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:02.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:12.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:21.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:28.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:37.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:44.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:21:54.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:22:01.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:22:34.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:22:46.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:22:54.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:23:06.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:23:16.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:23:22.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:23:27.000
+ -  - 2020-03-06T10:23:34.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:23:40.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:23:49.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:23:55.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:24:30.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:24:50.000
+ -  - 2020-03-06T10:25:03.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:25:09.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:25:14.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:25:20.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:25:25.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:25:34.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:25:44.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:25:50.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:25:58.000
+"Callejón de Jesús" - 5 - 2020-03-06T10:26:07.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:26:15.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:26:21.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:26:27.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:26:33.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:26:39.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:26:44.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:26:56.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:27:00.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:27:05.000
+ -  - 2020-03-06T10:27:12.000
+ -  - 2020-03-06T10:27:20.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:27:25.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:27:30.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:27:36.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:27:40.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:27:46.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:27:52.000
+ -  - 2020-03-06T10:27:57.000
+ -  - 2020-03-06T10:28:06.000
+ -  - 2020-03-06T10:28:18.000
+ -  - 2020-03-06T10:28:28.000
+ -  - 2020-03-06T10:28:39.000
+ -  - 2020-03-06T10:28:48.000
+ -  - 2020-03-06T10:28:57.000
+ -  - 2020-03-06T10:29:04.000
+ -  - 2020-03-06T10:29:13.000
+ -  - 2020-03-06T10:29:18.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:29:24.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:29:30.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:29:35.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:29:40.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:29:48.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:29:57.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:30:04.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:30:24.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:30:31.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:30:36.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:30:41.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:30:48.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:30:53.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:30:58.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:31:07.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:31:13.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:31:20.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:31:27.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:31:36.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:31:42.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:31:49.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:31:54.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:32:01.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:32:10.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:32:16.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:32:28.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:32:33.000
+ -  - 2020-03-06T10:32:39.000
+ -  - 2020-03-06T10:32:47.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:32:52.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:32:58.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:33:03.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:33:11.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:33:18.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:33:23.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:33:29.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:33:35.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:33:40.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:33:53.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:00.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:08.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:14.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:19.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:26.000
+"Calle Fuente Palmera" - 2D - 2020-03-06T10:34:31.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:34:39.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:34:43.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:34:49.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:35:00.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:35:17.000
+ -  - 2020-03-06T10:35:23.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:35:36.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:35:40.000
+ -  - 2020-03-06T10:35:49.000
+"Calle Fuente Palmera" - 13 - 2020-03-06T10:35:54.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:36:02.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:36:07.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:36:16.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:36:21.000
+"Calle Fuente Palmera" - 5 - 2020-03-06T10:36:27.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:36:33.000
+ -  - 2020-03-06T10:36:38.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:36:44.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:36:50.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:01.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:06.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:11.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:18.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:23.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:29.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:34.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:37:42.000
+ -  - 2020-03-06T10:37:52.000
+ -  - 2020-03-06T10:37:57.000
+ -  - 2020-03-06T10:38:02.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:38:08.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:38:13.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:38:19.000
+ -  - 2020-03-06T10:38:41.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:38:46.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:38:53.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:38:58.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:39:05.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:10.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:15.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:20.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:26.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:31.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:39:36.000
+"Callejón de Jesús" - 5 - 2020-03-06T10:39:41.000
+"Callejón de Jesús" - 5 - 2020-03-06T10:39:47.000
+"Callejón de Jesús" - 5 - 2020-03-06T10:39:53.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:40:00.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:40:06.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:40:16.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:40:20.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:40:30.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:40:36.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:40:42.000
+ -  - 2020-03-06T10:40:50.000
+"Calle Fuente Palmera" - 3 - 2020-03-06T10:40:58.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:41:05.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:41:10.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:41:16.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:41:21.000
+"Calle Fuente Palmera" - 11 - 2020-03-06T10:41:26.000
+"Calle Fuente Palmera" - 13 - 2020-03-06T10:41:33.000
+ -  - 2020-03-06T10:41:38.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:41:43.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:41:49.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:41:56.000
+ -  - 2020-03-06T10:42:00.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:42:15.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:42:20.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:42:32.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:42:37.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T10:42:42.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T10:42:47.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:42:52.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:42:57.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T10:43:03.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T10:43:08.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T10:43:17.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T10:43:23.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:30.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:35.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:40.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:45.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:51.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T10:43:56.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T10:44:01.000
+"Calle Fuente Palmera" - 21 - 2020-03-06T10:44:08.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T10:44:13.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T10:44:18.000
+"Calle Fuente Palmera" - 15 - 2020-03-06T10:44:25.000
+ -  - 2020-03-06T10:44:31.000
+"Calle Fuente Palmera" - 13 - 2020-03-06T10:44:37.000
+"Calle Fuente Palmera" - 13 - 2020-03-06T10:44:48.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T10:44:53.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:44:59.000
+"Calle Fuente Palmera" - 7 - 2020-03-06T10:45:08.000
+ -  - 2020-03-06T10:45:14.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:45:25.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:45:29.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:45:35.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:45:43.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:45:48.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:45:53.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:45:59.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:04.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:09.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:20.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:30.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:40.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:45.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:46:56.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:47:09.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:47:14.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:47:24.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:47:29.000
+"Calle Fuente Palmera" - 1D - 2020-03-06T10:47:38.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:47:44.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:47:53.000
+"Callejón de Jesús" - 5 - 2020-03-06T10:48:00.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:48:06.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:48:13.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:48:24.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:48:29.000
+"Calle Fuente Palmera" -  - 2020-03-06T10:48:36.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T10:48:48.000
+"Avenida de Andalucía" - 2 - 2020-03-06T10:48:55.000
+"Avenida de Andalucía" - 3 - 2020-03-06T10:49:00.000
+"Avenida de Andalucía" - 3 - 2020-03-06T10:49:05.000
+"Avenida de Andalucía" - 4 - 2020-03-06T10:49:10.000
+"Avenida de Andalucía" - 5 - 2020-03-06T10:49:17.000
+"Avenida de Andalucía" - 5 - 2020-03-06T10:49:22.000
+"Calle El Tejar" -  - 2020-03-06T10:49:27.000
+"Avenida de Andalucía" - 6 - 2020-03-06T10:49:32.000
+"Avenida de Andalucía" - 6 - 2020-03-06T10:49:37.000
+"Avenida de Andalucía" - 8 - 2020-03-06T10:49:44.000
+"Avenida de Andalucía" - 8 - 2020-03-06T10:49:49.000
+"Avenida de Andalucía" - 9 - 2020-03-06T10:49:59.000
+"Avenida de Andalucía" -  - 2020-03-06T10:50:03.000
+"Avenida de Andalucía" -  - 2020-03-06T10:50:09.000
+"Avenida de Andalucía" - 12 - 2020-03-06T10:50:15.000
+"Avenida de Andalucía" - 12 - 2020-03-06T10:50:27.000
+"Avenida de Andalucía" - 16 - 2020-03-06T10:50:37.000
+"Avenida de Andalucía" - 16 - 2020-03-06T10:50:43.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:50:47.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:50:53.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:50:57.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:51:07.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:51:15.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:51:20.000
+"Avenida de Andalucía" - 16 - 2020-03-06T10:51:26.000
+"Avenida de Andalucía" - 18 - 2020-03-06T10:51:39.000
+"Avenida de Andalucía" - 7 - 2020-03-06T10:51:46.000
+"Avenida de Andalucía" - 22 - 2020-03-06T10:51:58.000
+"Avenida de Andalucía" - 9D - 2020-03-06T10:52:06.000
+"Avenida de Andalucía" - 9D - 2020-03-06T10:52:11.000
+"Avenida de Andalucía" - 9D - 2020-03-06T10:52:17.000
+ -  - 2020-03-06T10:52:22.000
+ -  - 2020-03-06T10:52:29.000
+ -  - 2020-03-06T10:52:34.000
+"Avenida de Andalucía" - 29 - 2020-03-06T10:52:40.000
+"Avenida de Andalucía" - 29 - 2020-03-06T10:52:45.000
+"Plaza Don Antonio Gómez Aguilar" -  - 2020-03-06T10:52:55.000
+"Avenida de Andalucía" - 39 - 2020-03-06T10:53:01.000
+"Avenida de Andalucía" - 30 - 2020-03-06T10:53:06.000
+"Avenida de Andalucía" - 30 - 2020-03-06T10:53:12.000
+"Avenida de Andalucía" - 42 - 2020-03-06T10:53:22.000
+"Avenida de Andalucía" - 44 - 2020-03-06T10:53:27.000
+"Avenida de Andalucía" - 44 - 2020-03-06T10:53:33.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:53:38.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:53:46.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:53:57.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T10:54:06.000
+"Avenida de Andalucía" - 43 - 2020-03-06T10:54:15.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:54:19.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:54:24.000
+"Avenida de Andalucía" -  - 2020-03-06T10:54:30.000
+"Avenida de Andalucía" -  - 2020-03-06T10:54:36.000
+"Avenida de Andalucía" -  - 2020-03-06T10:54:41.000
+"Avenida de Andalucía" -  - 2020-03-06T10:54:50.000
+ -  - 2020-03-06T10:54:55.000
+ -  - 2020-03-06T10:55:03.000
+ -  - 2020-03-06T10:55:07.000
+ -  - 2020-03-06T10:55:14.000
+ -  - 2020-03-06T10:55:18.000
+ -  - 2020-03-06T10:55:26.000
+ -  - 2020-03-06T10:55:44.000
+ -  - 2020-03-06T10:55:48.000
+ -  - 2020-03-06T10:56:05.000
+"Avenida de Andalucía" -  - 2020-03-06T10:56:18.000
+"Avenida de Andalucía" -  - 2020-03-06T10:56:29.000
+"Avenida de Andalucía" -  - 2020-03-06T10:56:35.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:56:40.000
+"Avenida de Andalucía" - 43 - 2020-03-06T10:56:45.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T10:56:49.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T10:56:55.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T10:57:00.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T10:57:06.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:57:12.000
+"Avenida de Andalucía" - 45 - 2020-03-06T10:57:27.000
+"Avenida de Andalucía" - 44 - 2020-03-06T10:57:36.000
+"Avenida de Andalucía" - 44 - 2020-03-06T10:57:41.000
+"Avenida de Andalucía" - 42 - 2020-03-06T10:57:49.000
+"Avenida de Andalucía" - 30 - 2020-03-06T10:58:00.000
+"Plaza Don Antonio Gómez Aguilar" -  - 2020-03-06T10:58:05.000
+"Plaza Don Antonio Gómez Aguilar" -  - 2020-03-06T10:58:18.000
+ -  - 2020-03-06T10:58:23.000
+ -  - 2020-03-06T10:58:29.000
+"Avenida de Andalucía" - 26 - 2020-03-06T10:58:35.000
+"Avenida de Andalucía" - 26 - 2020-03-06T10:58:40.000
+"Avenida de Andalucía" - 23 - 2020-03-06T10:58:46.000
+"Avenida de Andalucía" - 23 - 2020-03-06T10:58:52.000
+"Avenida de Andalucía" - 21 - 2020-03-06T10:58:58.000
+"Avenida de Andalucía" - 19 - 2020-03-06T10:59:07.000
+"Avenida de Andalucía" - 16 - 2020-03-06T10:59:14.000
+"Avenida de Andalucía" - 16 - 2020-03-06T10:59:18.000
+"Avenida de Andalucía" - 15 - 2020-03-06T10:59:25.000
+"Avenida de Andalucía" - 14 - 2020-03-06T10:59:31.000
+"Avenida de Andalucía" - 13 - 2020-03-06T10:59:39.000
+"Avenida de Andalucía" - 13 - 2020-03-06T10:59:44.000
+"Avenida de Andalucía" - 11 - 2020-03-06T10:59:50.000
+"Avenida de Andalucía" - 11 - 2020-03-06T10:59:56.000
+"Avenida de Andalucía" - 11 - 2020-03-06T11:00:06.000
+"Avenida de Andalucía" - 11 - 2020-03-06T11:00:13.000
+"Avenida de Andalucía" - 11 - 2020-03-06T11:00:24.000
+"Avenida de Andalucía" - 11 - 2020-03-06T11:00:35.000
+"Avenida de Andalucía" - 10 - 2020-03-06T11:00:44.000
+"Avenida de Andalucía" - 9 - 2020-03-06T11:00:49.000
+"Avenida de Andalucía" - 8 - 2020-03-06T11:00:55.000
+"Avenida de Andalucía" - 8 - 2020-03-06T11:01:00.000
+"Avenida de Andalucía" - 6 - 2020-03-06T11:01:11.000
+"Avenida de Andalucía" - 6 - 2020-03-06T11:01:18.000
+"Calle El Tejar" -  - 2020-03-06T11:01:23.000
+"Calle El Tejar" -  - 2020-03-06T11:01:28.000
+"Avenida de Andalucía" - 5 - 2020-03-06T11:01:35.000
+"Avenida de Andalucía" - 5 - 2020-03-06T11:01:45.000
+"Avenida de Andalucía" - 4 - 2020-03-06T11:01:52.000
+"Avenida de Andalucía" - 4 - 2020-03-06T11:01:59.000
+"Avenida de Andalucía" - 2 - 2020-03-06T11:02:07.000
+"Avenida de Andalucía" - 2 - 2020-03-06T11:02:22.000
+"Avenida de Andalucía" - 1 - 2020-03-06T11:02:30.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T11:02:36.000
+"Calle Fuente Palmera" - 1 - 2020-03-06T11:02:50.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:02:58.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:03:05.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:03:12.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:03:18.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:03:23.000
+"Callejón de Jesús" - 5 - 2020-03-06T11:03:28.000
+"Callejón de Jesús" - 1 - 2020-03-06T11:03:35.000
+"Callejón de Jesús" - 1 - 2020-03-06T11:03:42.000
+"Callejón de Jesús" - 1 - 2020-03-06T11:03:48.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:03:57.000
+"Calle Palma del Río" - 3 - 2020-03-06T11:04:12.000
+"Calle Palma del Río" - 5 - 2020-03-06T11:04:19.000
+"Calle Palma del Río" - 9 - 2020-03-06T11:04:24.000
+"Calle Palma del Río" - 11 - 2020-03-06T11:04:33.000
+"Calle Palma del Río" - 13 - 2020-03-06T11:04:57.000
+"Calle Palma del Río" - 21 - 2020-03-06T11:05:13.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:05:20.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:05:26.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:05:33.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:05:44.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:05:50.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:06:02.000
+"Calle Palma del Río" - 21 - 2020-03-06T11:06:14.000
+"Calle Palma del Río" - 19 - 2020-03-06T11:06:23.000
+"Calle Palma del Río" - 19 - 2020-03-06T11:06:28.000
+"Calle Palma del Río" - 21 - 2020-03-06T11:06:35.000
+"Calle Palma del Río" - 23 - 2020-03-06T11:06:40.000
+"Calle Palma del Río" - 25 - 2020-03-06T11:06:45.000
+"Calle Palma del Río" - 25 - 2020-03-06T11:06:51.000
+"Calle Palma del Río" - 27 - 2020-03-06T11:07:00.000
+"Calle Palma del Río" - 29 - 2020-03-06T11:07:16.000
+"Calle Palma del Río" - 35 - 2020-03-06T11:07:20.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:07:27.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:07:34.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:07:38.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:07:45.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:07:50.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:08:07.000
+"Calle Montilla" - 91 - 2020-03-06T11:08:12.000
+"Calle Montilla" - 91 - 2020-03-06T11:08:18.000
+"Calle Montilla" - 91 - 2020-03-06T11:08:29.000
+"Calle Palma del Río" - 37 - 2020-03-06T11:08:40.000
+"Calle Palma del Río" - 35 - 2020-03-06T11:08:46.000
+"Calle Palma del Río" - 31 - 2020-03-06T11:08:51.000
+"Calle Palma del Río" - 31 - 2020-03-06T11:09:02.000
+"Calle Palma del Río" - 27 - 2020-03-06T11:09:08.000
+"Calle Palma del Río" - 27 - 2020-03-06T11:09:15.000
+"Calle Palma del Río" - 25 - 2020-03-06T11:09:25.000
+"Calle Palma del Río" - 21 - 2020-03-06T11:09:33.000
+"Calle Palma del Río" - 21 - 2020-03-06T11:09:43.000
+ -  - 2020-03-06T11:09:49.000
+ -  - 2020-03-06T11:09:54.000
+ -  - 2020-03-06T11:10:02.000
+"Calle Palma del Río" - 13 - 2020-03-06T11:10:08.000
+"Calle Palma del Río" - 9 - 2020-03-06T11:10:16.000
+"Calle Palma del Río" - 7 - 2020-03-06T11:10:21.000
+"Calle Palma del Río" - 7 - 2020-03-06T11:10:26.000
+"Calle Palma del Río" - 7 - 2020-03-06T11:10:36.000
+"Calle Palma del Río" - 3 - 2020-03-06T11:10:41.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:10:46.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:10:54.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:10:59.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:11:08.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:11:15.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:11:21.000
+"Calle Palma del Río" - 1 - 2020-03-06T11:11:27.000
+"Calle Almodóvar del Río" - 2 - 2020-03-06T11:11:33.000
+"Calle Almodóvar del Río" - 2 - 2020-03-06T11:11:39.000
+"Calle Almodóvar del Río" - 2 - 2020-03-06T11:11:48.000
+"Callejón de Jesús" -  - 2020-03-06T11:11:53.000
+"Callejón de Jesús" -  - 2020-03-06T11:12:00.000
+"Callejón de Jesús" -  - 2020-03-06T11:12:08.000
+"Calle Almodóvar del Río" - 39D - 2020-03-06T11:12:13.000
+"Calle Almodóvar del Río" - 39D - 2020-03-06T11:12:18.000
+"Calle Almodóvar del Río" - 4 - 2020-03-06T11:12:23.000
+"Calle Almodóvar del Río" - 6 - 2020-03-06T11:12:31.000
+"Calle Almodóvar del Río" - 6 - 2020-03-06T11:12:36.000
+"Calle Antonio Vicente Mosquete" - 1 - 2020-03-06T11:12:44.000
+"Calle Antonio Vicente Mosquete" - 2 - 2020-03-06T11:12:53.000
+"Calle Antonio Vicente Mosquete" - 2 - 2020-03-06T11:13:00.000
+"Calle Almodóvar del Río" - 1 - 2020-03-06T11:13:06.000
+"Calle Maestro Rafael Siles Rubio" - 1 - 2020-03-06T11:13:11.000
+"Calle Maestro Rafael Siles Rubio" - 1 - 2020-03-06T11:13:17.000
+"Calle Almodóvar del Río" - 2D - 2020-03-06T11:13:24.000
+"Calle Almodóvar del Río" - 20 - 2020-03-06T11:13:31.000
+"Calle Almodóvar del Río" - 24 - 2020-03-06T11:13:41.000
+ -  - 2020-03-06T11:13:50.000
+"Calle Almodóvar del Río" - 71 - 2020-03-06T11:13:56.000
+"Calle Almodóvar del Río" - 71 - 2020-03-06T11:14:07.000
+"Calle Almodóvar del Río" - 73 - 2020-03-06T11:14:13.000
+"Calle Almodóvar del Río" - 77 - 2020-03-06T11:14:20.000
+"Calle Almodóvar del Río" - 83 - 2020-03-06T11:14:25.000
+"Calle Almodóvar del Río" - 85 - 2020-03-06T11:14:32.000
+"Calle Almodóvar del Río" - 38 - 2020-03-06T11:14:40.000
+"Calle Montilla" - 89 - 2020-03-06T11:14:46.000
+"Calle Montilla" - 91 - 2020-03-06T11:14:53.000
+"Calle Montilla" - 91 - 2020-03-06T11:15:01.000
+"Calle Montilla" - 97 - 2020-03-06T11:15:15.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T11:15:20.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T11:15:25.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T11:15:30.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T11:15:39.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T11:15:43.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T11:15:50.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T11:15:55.000
+"Avenida Conde de Vallellano" - 8 - 2020-03-06T11:16:00.000
+"Avenida Conde de Vallellano" - 6 - 2020-03-06T11:16:05.000
+"Avenida Conde de Vallellano" - 10 - 2020-03-06T11:16:10.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T11:16:16.000
+"Calle Montilla" - 97 - 2020-03-06T11:16:22.000
+"Calle Montilla" - 97 - 2020-03-06T11:16:31.000
+"Calle Montilla" - 97 - 2020-03-06T11:16:36.000
+"Calle Montilla" - 97 - 2020-03-06T11:16:42.000
+"Avenida Conde de Vallellano" - 12 - 2020-03-06T11:16:54.000
+"Calle Montilla" - 97 - 2020-03-06T11:17:00.000
+"Calle Fuente Palmera" - 25 - 2020-03-06T11:17:06.000
+"Calle Fuente Palmera" - 23 - 2020-03-06T11:17:15.000
+"Calle Fuente Palmera" - 19 - 2020-03-06T11:17:21.000
+"Calle Fuente Palmera" - 17 - 2020-03-06T11:17:32.000
+"Calle Fuente Palmera" - 9 - 2020-03-06T11:17:41.000
+ -  - 2020-03-06T11:17:47.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:17:58.000
+"Calle Fuente Palmera" -  - 2020-03-06T11:18:12.000
+"Avenida de Andalucía" - 5 - 2020-03-06T11:18:18.000
+"Avenida de Andalucía" - 5 - 2020-03-06T11:18:23.000
+"Calle El Tejar" -  - 2020-03-06T11:18:41.000
+"Calle El Tejar" -  - 2020-03-06T11:18:47.000
+"Calle El Tejar" -  - 2020-03-06T11:18:57.000
+"Calle El Tejar" -  - 2020-03-06T11:19:04.000
+"Avenida de Andalucía" - 6 - 2020-03-06T11:19:10.000
+"Avenida de Andalucía" - 8 - 2020-03-06T11:19:19.000
+"Avenida de Andalucía" - 9 - 2020-03-06T11:19:24.000
+"Avenida de Andalucía" - 9 - 2020-03-06T11:19:33.000
+"Avenida de Andalucía" - 16 - 2020-03-06T11:19:45.000
+"Avenida de Andalucía" - 23 - 2020-03-06T11:19:51.000
+ -  - 2020-03-06T11:19:57.000
+ -  - 2020-03-06T11:20:20.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T11:20:28.000
+"Avenida de Andalucía" -  - 2020-03-06T11:20:45.000
+"Avenida de Andalucía" -  - 2020-03-06T11:20:56.000
+"Avenida de Andalucía" - 48 - 2020-03-06T11:21:04.000
+"Avenida María Auxiliadora" -  - 2020-03-06T11:21:15.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:21:25.000
+ -  - 2020-03-06T11:21:34.000
+ -  - 2020-03-06T11:21:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:21:45.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:21:51.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:06.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:12.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:17.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:34.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:22:49.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:23:02.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:23:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:23:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:24:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:24:24.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:24:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:25:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:25:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:25:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:26:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:26:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:26:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:27:04.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:27:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:27:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:28:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:28:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:28:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:29:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:29:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:29:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:30:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:30:24.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:30:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:31:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:31:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:31:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:32:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:32:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:32:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:33:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:33:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:33:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:34:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:34:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:34:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:35:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:35:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:35:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:36:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:36:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:36:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:37:00.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:37:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:37:40.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:38:05.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:38:20.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:38:26.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:38:35.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T11:38:48.000
+"Avenida María Auxiliadora" - 18 - 2020-03-06T11:39:01.000
+"Avenida de Andalucía" - 48 - 2020-03-06T11:39:12.000
+"Calle D. Dolores Gomez Martinez" -  - 2020-03-06T11:39:17.000
+"Avenida de Andalucía" - 11D - 2020-03-06T11:39:25.000
+"Avenida de Andalucía" - 11D - 2020-03-06T11:39:45.000
+"Avenida de Andalucía" - 44 - 2020-03-06T11:39:55.000
+"Calle Médico Rafael Molero Cabrilla" -  - 2020-03-06T11:40:02.000
+"Avenida de Andalucía" - 45 - 2020-03-06T11:40:16.000
+"Plaza Don Antonio Gómez Aguilar" -  - 2020-03-06T11:40:25.000
+"Avenida de Andalucía" - 23 - 2020-03-06T11:40:31.000
+"Avenida de Andalucía" - 21 - 2020-03-06T11:40:36.000
+"Avenida de Andalucía" - 19 - 2020-03-06T11:40:52.000
+"Avenida de Andalucía" - 11 - 2020-03-06T11:40:58.000
+"Avenida de Andalucía" - 8 - 2020-03-06T11:41:08.000
+"Avenida de Andalucía" - 3 - 2020-03-06T11:41:14.000
+"Avenida de Andalucía" - 1 - 2020-03-06T11:41:18.000
+"Avenida Soldevilla Vázquez" - 56A - 2020-03-06T11:41:27.000
+"Avenida Soldevilla Vázquez" - 56B - 2020-03-06T11:41:32.000
+"Avenida Soldevilla Vázquez" - 56B - 2020-03-06T11:41:44.000
+"Calle Rafael Alberti" -  - 2020-03-06T11:41:50.000
+"Calle Juan Carlos I" -  - 2020-03-06T11:41:56.000
+"Avenida Soldevilla Vázquez" - 19A - 2020-03-06T11:42:05.000
+"Avenida Soldevilla Vázquez" - 19D - 2020-03-06T11:42:12.000
+"Avenida Soldevilla Vázquez" - 15D - 2020-03-06T11:42:18.000
+"Avenida Soldevilla Vázquez" - 13D - 2020-03-06T11:42:28.000
+"Avenida Soldevilla Vázquez" - 13 - 2020-03-06T11:42:35.000
+"Avenida Soldevilla Vázquez" - 9 - 2020-03-06T11:42:44.000
+"Avenida Soldevilla Vázquez" - 5 - 2020-03-06T11:42:49.000
+"Avenida Soldevilla Vázquez" - 5 - 2020-03-06T11:42:55.000
+"Avenida Soldevilla Vázquez" - 1 - 2020-03-06T11:43:02.000
+"Plaza de la Estación" -  - 2020-03-06T11:43:08.000
+"Calle Antonio Machado" - 14 - 2020-03-06T11:43:19.000
+"Calle Antonio Machado" - 8 - 2020-03-06T11:43:25.000
+"Calle Antonio Machado" - 5 - 2020-03-06T11:43:32.000
+"Calle Antonio Machado" - 2 - 2020-03-06T11:43:40.000
+"Calle Antonio Machado" - 2 - 2020-03-06T11:43:45.000
+"Calle Antonio Machado" - 2 - 2020-03-06T11:43:49.000
+"Calle Antonio Machado" - 2 - 2020-03-06T11:43:55.000
+"Calle Antonio Toscano Palacios" - 1 - 2020-03-06T11:44:00.000
+"Calle Antonio Toscano Palacios" - 5 - 2020-03-06T11:44:10.000
+"Calle Antonio Toscano Palacios" - 5 - 2020-03-06T11:44:16.000
+"Calle Antonio Toscano Palacios" - 5 - 2020-03-06T11:44:21.000
+"Calle Antonio Toscano Palacios" - 5 - 2020-03-06T11:44:40.000
+"Calle Pintor Palomino" - 4 - 2020-03-06T12:22:13.000
+"Calle Pintor Palomino" - 4 - 2020-03-06T12:22:19.000
+"Calle Pintor Palomino" - 4 - 2020-03-06T12:22:26.000
+"Calle Pintor Palomino" - 5 - 2020-03-06T12:22:31.000
+"Calle Pintor Palomino" - 5 - 2020-03-06T12:22:37.000
+"Plaza Virgen de la Salud" - 32 - 2020-03-06T12:22:46.000
+"Plaza Virgen de la Salud" - 32 - 2020-03-06T12:22:52.000
+"Plaza Virgen de la Salud" - 35 - 2020-03-06T12:22:56.000
+"Plaza Virgen de la Salud" - 35 - 2020-03-06T12:23:02.000
+"Plaza Virgen de la Salud" - 12D - 2020-03-06T12:23:11.000
+"Plaza Virgen de la Salud" - 12D - 2020-03-06T12:23:17.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:25.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:31.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:36.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:42.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:48.000
+"Plaza Virgen de la Salud" - 12 - 2020-03-06T12:23:56.000
+"Plaza Virgen de la Salud" - 10 - 2020-03-06T12:24:04.000
+"Plaza Virgen de la Salud" - 10 - 2020-03-06T12:24:09.000
+"Calle Juan XXIII" - 5 - 2020-03-06T12:24:18.000
+"Calle Maestro Lucena" - 4 - 2020-03-06T12:24:24.000
+"Calle Juan XXIII" - 3 - 2020-03-06T12:24:36.000
+"Calle Pío XII" - 4 - 2020-03-06T12:24:41.000
+"Calle Pío XII" - 4 - 2020-03-06T12:24:47.000
+"Calle Pío XII" - 8 - 2020-03-06T12:24:55.000
+"Calle Pío XII" - 11 - 2020-03-06T12:25:06.000
+"Calle Pío XII" - 11 - 2020-03-06T12:25:11.000
+"Calle Pío XII" - 9 - 2020-03-06T12:25:18.000
+"Calle León XIII" -  - 2020-03-06T12:25:27.000
+"Calle Pío XII" - 14 - 2020-03-06T12:25:33.000
+"Calle Pío XII" - 14 - 2020-03-06T12:25:37.000
+"Calle Pío XII" - 16 - 2020-03-06T12:25:43.000
+"Calle Pío XII" - 13 - 2020-03-06T12:25:56.000
+"Calle Pío XII" - 17 - 2020-03-06T12:26:02.000
+"Calle Pío XII" - 17 - 2020-03-06T12:26:10.000
+"Calle San Rafael" - 27 - 2020-03-06T12:26:16.000
+"Calle San Rafael" - 29 - 2020-03-06T12:26:23.000
+"Calle San Rafael" - 34 - 2020-03-06T12:26:30.000
+"Calle Juan XXIII" - 31 - 2020-03-06T12:26:35.000
+"Calle Juan XXIII" - 31 - 2020-03-06T12:26:40.000
+"Calle Juan XXIII" - 31 - 2020-03-06T12:26:46.000
+"Calle Juan XXIII" - 30 - 2020-03-06T12:26:55.000
+"Calle Nicolás Guillén" - 11 - 2020-03-06T12:27:06.000
+"Avenida Joaquín Pecci" - 23 - 2020-03-06T12:27:19.000
+"Avenida Joaquín Pecci" - 15 - 2020-03-06T12:27:25.000
+"Avenida Joaquín Pecci" - 15 - 2020-03-06T12:27:33.000
+"Avenida Joaquín Pecci" - 11 - 2020-03-06T12:27:45.000
+"Avenida Joaquín Pecci" - 3 - 2020-03-06T12:27:54.000
+"Avenida Joaquín Pecci" - 3 - 2020-03-06T12:28:03.000
+"Avenida Joaquín Pecci" - 32 - 2020-03-06T12:28:07.000
+"Avenida Joaquín Pecci" - 28 - 2020-03-06T12:28:18.000
+"Calle Antonio del Castillo" - 13 - 2020-03-06T12:28:28.000
+"Avenida Joaquín Pecci" - 20 - 2020-03-06T12:28:34.000
+"Calle Fernando III El Santo" - 12 - 2020-03-06T12:28:39.000
+"Calle Fernando III El Santo" - 12 - 2020-03-06T12:28:45.000
+"Avenida Joaquín Pecci" - 12 - 2020-03-06T12:28:49.000
+"Avenida Joaquín Pecci" - 12 - 2020-03-06T12:28:55.000
+"Avenida Joaquín Pecci" - 8 - 2020-03-06T12:29:01.000
+"Avenida Joaquín Pecci" - 4 - 2020-03-06T12:29:14.000
+"Avenida Joaquín Pecci" - 2 - 2020-03-06T12:29:24.000
+"Plaza Los Reverendos Padres Salesianos" -  - 2020-03-06T12:29:28.000
+"Calle Golmayo" - 32 - 2020-03-06T12:29:34.000
+"Calle Golmayo" - 32 - 2020-03-06T12:29:39.000
+"Calle Golmayo" - 32 - 2020-03-06T12:29:44.000
+"Calle Golmayo" - 32 - 2020-03-06T12:29:49.000
+"Calle Golmayo" - 32 - 2020-03-06T12:29:54.000
+"Calle Golmayo" - 32 - 2020-03-06T12:30:02.000
+"Calle Golmayo" - 28 - 2020-03-06T12:30:07.000
+"Calle Golmayo" - 28 - 2020-03-06T12:30:14.000
+"Plaza Los Reverendos Padres Salesianos" -  - 2020-03-06T12:30:24.000
+"Calle Séneca" - 1 - 2020-03-06T12:30:28.000
+"Calle Séneca" - 3 - 2020-03-06T12:30:36.000
+"Calle Séneca" - 7 - 2020-03-06T12:30:41.000
+"Calle Séneca" - 7 - 2020-03-06T12:30:49.000
+"Calle Séneca" - 11 - 2020-03-06T12:30:56.000
+"Calle Séneca" - 15 - 2020-03-06T12:31:00.000
+"Calle Séneca" - 15 - 2020-03-06T12:31:09.000
+"Calle Séneca" - 19 - 2020-03-06T12:31:18.000
+"Calle Séneca" - 4 - 2020-03-06T12:31:23.000
+"Calle Séneca" - 4 - 2020-03-06T12:31:29.000
+"Calle Séneca" - 6 - 2020-03-06T12:31:36.000
+"Calle Séneca" - 6 - 2020-03-06T12:31:41.000
+"Calle Séneca" - 6 - 2020-03-06T12:31:46.000
+"Calle Gran Capitán" - 40 - 2020-03-06T12:31:50.000
+"Calle Gran Capitán" - 40 - 2020-03-06T12:31:57.000
+"Calle Séneca" - 25 - 2020-03-06T12:32:04.000
+"Calle Séneca" - 29 - 2020-03-06T12:32:15.000
+"Plaza Virgen de la Salud" - 31 - 2020-03-06T12:32:25.000
+"Plaza Virgen de la Salud" - 2 - 2020-03-06T12:32:30.000
+"Plaza Virgen de la Salud" - 3 - 2020-03-06T12:32:39.000
+"Plaza Virgen de la Salud" - 3 - 2020-03-06T12:32:47.000
+"Plaza Virgen de la Salud" - 3 - 2020-03-06T12:32:57.000
+"Plaza Virgen de la Salud" - 7 - 2020-03-06T12:33:04.000
+"Plaza Virgen de la Salud" - 8 - 2020-03-06T12:33:19.000
+"Calle Maestro Lucena" - 3 - 2020-03-06T12:33:28.000
+"Calle Maestro Lucena" - 3 - 2020-03-06T12:33:36.000
+"Calle Maestro Lucena" - 8 - 2020-03-06T12:33:43.000
+"Calle Maestro Lucena" - 8 - 2020-03-06T12:33:49.000
+"Calle Maestro Lucena" -  - 2020-03-06T12:33:57.000
+"Calle Maestro Lucena" -  - 2020-03-06T12:34:06.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:34:12.000
+"Calle Pío XII" - 2A - 2020-03-06T12:34:19.000
+"Calle Pío XII" - 1A - 2020-03-06T12:34:25.000
+"Calle Pío XII" - 1 - 2020-03-06T12:34:30.000
+"Calle Pío XII" - 1 - 2020-03-06T12:34:36.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:34:41.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:34:48.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:34:55.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:35:00.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:35:09.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:35:19.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:35:34.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:35:46.000
+ -  - 2020-03-06T12:35:52.000
+ -  - 2020-03-06T12:36:02.000
+ -  - 2020-03-06T12:36:08.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:36:17.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:36:31.000
+"Calle Compositor Maestro Lucena" -  - 2020-03-06T12:36:55.000
+"Avenida Joaquín Pecci" - 41 - 2020-03-06T12:37:01.000
+"Avenida Joaquín Pecci" - 41 - 2020-03-06T12:37:07.000
+"Avenida Joaquín Pecci" - 41 - 2020-03-06T12:37:15.000
+"Avenida Joaquín Pecci" - 41 - 2020-03-06T12:37:25.000
+"Avenida Joaquín Pecci" - 37 - 2020-03-06T12:37:32.000
+"Avenida Joaquín Pecci" - 37 - 2020-03-06T12:37:45.000
+"Avenida Joaquín Pecci" - 86 - 2020-03-06T12:37:51.000
+"Avenida Joaquín Pecci" - 86 - 2020-03-06T12:37:56.000
+"Avenida Joaquín Pecci" - 86 - 2020-03-06T12:38:03.000
+"Avenida Joaquín Pecci" - 84D - 2020-03-06T12:38:09.000
+"Avenida Joaquín Pecci" - 82 - 2020-03-06T12:38:21.000
+"Avenida Joaquín Pecci" - 80 - 2020-03-06T12:38:28.000
+"Avenida Joaquín Pecci" - 76 - 2020-03-06T12:38:33.000
+"Avenida Joaquín Pecci" - 72 - 2020-03-06T12:38:42.000
+"Avenida Joaquín Pecci" - 68 - 2020-03-06T12:38:51.000
+"Avenida Joaquín Pecci" - 64 - 2020-03-06T12:39:02.000
+"Avenida Joaquín Pecci" - 60 - 2020-03-06T12:39:12.000
+"Avenida Joaquín Pecci" - 23 - 2020-03-06T12:39:21.000
+"Avenida Joaquín Pecci" - 52 - 2020-03-06T12:39:27.000
+"Avenida Joaquín Pecci" - 48 - 2020-03-06T12:39:34.000
+"Avenida Joaquín Pecci" - 44 - 2020-03-06T12:39:40.000
+"Avenida Joaquín Pecci" - 44 - 2020-03-06T12:39:52.000
+"Avenida Joaquín Pecci" - 7 - 2020-03-06T12:39:59.000
+"Avenida Joaquín Pecci" - 3 - 2020-03-06T12:40:08.000
+"Avenida Joaquín Pecci" - 32 - 2020-03-06T12:40:13.000
+"Avenida Joaquín Pecci" - 28 - 2020-03-06T12:40:21.000
+"Avenida Joaquín Pecci" - 28 - 2020-03-06T12:40:27.000
+"Avenida Joaquín Pecci" - 24 - 2020-03-06T12:40:32.000
+"Avenida Joaquín Pecci" - 24 - 2020-03-06T12:40:38.000
+"Avenida Joaquín Pecci" - 20 - 2020-03-06T12:40:44.000
+"Avenida Joaquín Pecci" - 16 - 2020-03-06T12:40:51.000
+"Avenida Joaquín Pecci" - 16 - 2020-03-06T12:40:55.000
+"Avenida Joaquín Pecci" - 12 - 2020-03-06T12:41:01.000
+"Avenida Joaquín Pecci" - 12 - 2020-03-06T12:41:06.000
+"Avenida Joaquín Pecci" - 8 - 2020-03-06T12:41:12.000
+"Avenida Joaquín Pecci" - 4 - 2020-03-06T12:41:18.000
+"Avenida Joaquín Pecci" - 2 - 2020-03-06T12:41:23.000
+"Avenida Joaquín Pecci" - 2 - 2020-03-06T12:41:30.000
+"Avenida Joaquín Pecci" - 2 - 2020-03-06T12:41:36.000
+"Calle Golmayo" - 34 - 2020-03-06T12:41:43.000
+"Calle Golmayo" - 34 - 2020-03-06T12:41:48.000
+"Calle Golmayo" - 34 - 2020-03-06T12:41:54.000
+"Calle Golmayo" - 34 - 2020-03-06T12:41:58.000
+"Calle Golmayo" - 34 - 2020-03-06T12:42:09.000
+"Calle Golmayo" - 34 - 2020-03-06T12:42:19.000
+"Calle Golmayo" - 34 - 2020-03-06T12:42:24.000
+"Calle Golmayo" - 34 - 2020-03-06T12:42:39.000
+"Calle Golmayo" - 28 - 2020-03-06T12:42:44.000
+"Calle Golmayo" - 28 - 2020-03-06T12:42:50.000
+"Calle Golmayo" - 28 - 2020-03-06T12:42:58.000
+"Calle Golmayo" - 24 - 2020-03-06T12:43:02.000
+"Calle Golmayo" - 20 - 2020-03-06T12:43:08.000
+"Calle Golmayo" - 17 - 2020-03-06T12:43:17.000
+"Calle Golmayo" - 13 - 2020-03-06T12:43:23.000
+"Calle Golmayo" - 11 - 2020-03-06T12:43:28.000
+"Avenida de la Estación" - 3 - 2020-03-06T12:43:34.000
+"Avenida de la Estación" - 9 - 2020-03-06T12:43:42.000
+"Avenida de la Estación" - 15 - 2020-03-06T12:43:48.000
+"Avenida de la Estación" - 23 - 2020-03-06T12:43:56.000
+"Avenida de la Estación" - 31 - 2020-03-06T12:44:01.000
+"Avenida de la Estación" - 39 - 2020-03-06T12:44:08.000
+"Avenida de la Estación" - 47 - 2020-03-06T12:44:14.000
+"Avenida de la Estación" - 51 - 2020-03-06T12:44:20.000
+"Avenida de la Estación" - 51 - 2020-03-06T12:44:25.000
+"Avenida de la Estación" - 51 - 2020-03-06T12:44:31.000
+"Avenida de la Estación" - 51 - 2020-03-06T12:44:35.000
+"Avenida de la Estación" - 34 - 2020-03-06T12:44:41.000
+"Avenida de la Estación" - 24 - 2020-03-06T12:44:46.000
+"Avenida de la Estación" - 38 - 2020-03-06T12:44:50.000
+"Avenida de la Estación" - 38 - 2020-03-06T12:44:56.000
+"Calle Los Molinos" - 33 - 2020-03-06T12:45:02.000
+"Calle Los Molinos" - 33 - 2020-03-06T12:45:08.000
+"Avenida de la Estación" - 55 - 2020-03-06T12:45:14.000
+"Avenida de la Estación" - 57 - 2020-03-06T12:45:20.000
+"Plaza de la Estación" - 2 - 2020-03-06T12:45:27.000
+"Plaza de la Estación" - 3 - 2020-03-06T12:45:33.000
+"Plaza de la Estación" - 3 - 2020-03-06T12:45:40.000
+"Avenida Soldevilla Vázquez" - 1 - 2020-03-06T12:45:46.000
+"Avenida Soldevilla Vázquez" - 5 - 2020-03-06T12:45:53.000
+"Avenida Soldevilla Vázquez" - 15 - 2020-03-06T12:46:03.000
+"Avenida Soldevilla Vázquez" - 30 - 2020-03-06T12:46:08.000
+"Avenida Soldevilla Vázquez" - 17 - 2020-03-06T12:46:17.000
+"Avenida Soldevilla Vázquez" - 36 - 2020-03-06T12:46:22.000
+"Calle Félix Rodríguez de la Fuente" -  - 2020-03-06T12:46:40.000
+"Avenida Soldevilla Vázquez" - 56B - 2020-03-06T12:46:45.000
+"Avenida Soldevilla Vázquez" - 56B - 2020-03-06T12:46:52.000
+"Avenida de Andalucía" - 4 - 2020-03-06T12:46:57.000
+"Avenida de Andalucía" - 5 - 2020-03-06T12:47:04.000
+"Avenida de Andalucía" - 10 - 2020-03-06T12:47:20.000
+"Avenida de Andalucía" - 19 - 2020-03-06T12:47:28.000
+"Avenida de Andalucía" - 21 - 2020-03-06T12:47:33.000
+ -  - 2020-03-06T12:48:08.000
+"Avenida de Andalucía" -  - 2020-03-06T12:48:22.000
+"Calle Rigoberta Menchú" -  - 2020-03-06T12:48:27.000
+"Avenida de Andalucía" - 11D - 2020-03-06T12:48:40.000
+"Avenida María Auxiliadora" -  - 2020-03-06T12:48:45.000
+"Avenida María Auxiliadora" -  - 2020-03-06T12:48:50.000
+"Avenida María Auxiliadora" - 18 - 2020-03-06T12:48:58.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T12:49:05.000
+"Avenida María Auxiliadora" -  - 2020-03-06T12:49:10.000
+"Avenida María Auxiliadora" -  - 2020-03-06T12:49:21.000
+"Avenida María Auxiliadora" - 20 - 2020-03-06T12:49:31.000
