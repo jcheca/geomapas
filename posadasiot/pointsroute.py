@@ -17,8 +17,8 @@ HEADER = {
     "Fiware-ServicePath": "/rabanales"
 }
 PARAMS = {
-    "fromDate": "2020-03-12T06:00:00.000",
-    "toDate": "2020-03-12T13:00:00.000"
+    "fromDate": "2020-03-13T06:00:00.000",
+    "toDate": "2020-03-13T13:00:00.000"
 }
 
 URL1 = "https://reverse.geocoder.ls.hereapi.com/6.2/reversegeocode.json"
@@ -28,7 +28,6 @@ r = requests.get(url = URL, params = PARAMS, headers = HEADER)
   
 # extracting data in json format 
 data = r.json() 
-#print(data["data"]["attributes"][3]["values"])
 
 features = []
  
