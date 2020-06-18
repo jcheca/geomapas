@@ -17,8 +17,8 @@ HEADER = {
     "Fiware-ServicePath": "/rabanales"
 }
 PARAMS = {
-    "fromDate": "2020-06-16T03:00:00.000",
-    "toDate": "2020-06-16T14:00:00.000"
+    "fromDate": "2020-06-18T03:00:00.000",
+    "toDate": "2020-06-18T14:00:00.000"
 }
 
 URL1 = "https://reverse.geocoder.ls.hereapi.com/6.2/reversegeocode.json"
