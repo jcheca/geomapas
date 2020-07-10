@@ -1,0 +1,57 @@
+* Instalación del Servidor en Clouding.io
+
+- Ubuntu Server 20 - Espacio Disco 10Gb
+- Anotar la IP asignada, el usuario es "root" y anotar la clave.
+- Accedemos por SSH y cambiamos la clave. Salimos y entramos.
+
+* Actualización del sistema
+
+apt-get update
+apt-get upgrade -y
+
+* Intalacion Node+Node-Red
+
+apt-get install nodejs
+node -v
+apt-get install npm
+npm -v
+npm install -g --unsafe-perm node-red node-red-admin
+node-red
+<Ctrl+C>
+
+* Autoarranque
+
+npm install -g pm2
+(which node-red -> /usr/local/bin/node-red)
+pm2 start /usr/local/bin/node-red -- -v
+pm2 startup
+pm2 save
+
+* Crear clave para Node-red
+
+node-red-admin hash-pw
+cd .node-red
+nano settings.js
+pm2 reload node-red
+
+<reboot>
+
+* Instalación de InfluxDB
+
+wget https://dl.influxdata.com/influxdb/releases/influxdb_1.8.0_amd64.deb
+dpkg -i influxdb_1.8.0_amd64.deb
+systemctl [enable | status | start | stop] influxdb
+journalctl -f -u influxdb
+
+* Instalación de Telegraf
+
+wget https://dl.influxdata.com/telegraf/releases/telegraf_1.14.5-1_amd64.deb
+dpkg -i telegraf_1.14.5-1_amd64.deb
+systemctl [enable | status | start | stop] telegraf
+journalctl -f -u influxdb
+
+
+
+<reboot>
+
+
