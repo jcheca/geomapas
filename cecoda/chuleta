@@ -50,8 +50,12 @@ dpkg -i telegraf_1.14.5-1_amd64.deb
 systemctl [enable | status | start | stop] telegraf
 journalctl -f -u influxdb
 
+* Instalación de Grafana
 
+wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add -
+apt update
+apt install grafana
+systemctl [enable | status | start | stop] grafana-server
 
-<reboot>
 
 
