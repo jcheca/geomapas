@@ -52,8 +52,10 @@ journalctl -f -u influxdb
 
 * Instalación de Grafana
 
-wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add -
-apt update
+apt-get install -y gnupg2 curl  software-properties-common
+curl https://packages.grafana.com/gpg.key | sudo apt-key add -
+add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
+apt-get update
 apt install grafana
 systemctl [enable | status | start | stop] grafana-server
 
