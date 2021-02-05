@@ -52,3 +52,6 @@ Ejemplo: https://turfjs.org/getting-started
 * trackpoint.py: consulta NGSI TSDB/0.2 a QuatumLeap con los movimientos del Tracker, discriminando cada 25 mts
 * point2line.py: convierte la salida de trackpoint.py (.geojson de puntos) a LineString (.geojson de ruta)
 * line2here.py: convierte la salida de point2line.py (.geojson LineString) a LineString generadas por routing HERE
+* imesapi2modelo: convierte las lecturas de iluminancia de una archivo .xlsx multitab a un fichero .cvs en formato de entrada para el moedelo matemático con las combinaciones establecidas.
+* predic2tabular: convierte la predicción con las combinaciones establecidas en un archivo .cvs que representa una matriz de los puntos georeferenciados.
+* tabular2map: convierte la matriz de puntos georeferenciados en un archivo .geojson con las combinaciones como propiedades para su representación gráfica.
