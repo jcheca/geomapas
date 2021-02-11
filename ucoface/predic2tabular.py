@@ -35,11 +35,11 @@ combina = ["F08140102","M08140102",
 #
 # Noº de puntos a procesar y definición de matrix
 #
-numlec = 26010
-matrix = x = [[0 for i in range(53)] for j in range(numlec+1)]
+numlec = 45872
+matrix = x = [[0 for i in range(54)] for j in range(numlec+1)]
 
 # Using readlines()
-file1 = open('salida1.txt', 'r')
+file1 = open('out-modelo.csv', 'r')
 Lines = file1.readlines()
 
 # Strips the newline character
@@ -55,6 +55,7 @@ for line in Lines:
     cor_xx = b[2].replace('"', '').strip()
     cor_yy = b[3].replace('"', '').strip()
     drf_nn = b[5].replace('"', '').strip()
+    lux_pt = b[7].replace('"', '').strip()
 
     # for DEBUG 
     #print('{0};{1};{2};{3};{4}'.format(num_id,cmb_id,cor_xx,cor_yy,drf_nn))
@@ -63,7 +64,8 @@ for line in Lines:
     matrix[num_id][0] = num_id
     matrix[num_id][1] = cor_xx
     matrix[num_id][2] = cor_yy
-    matrix[num_id][combina.index(cmb_id)+3] = drf_nn
+    matrix[num_id][3] = lux_pt
+    matrix[num_id][combina.index(cmb_id)+4] = drf_nn
 
     #raw_input("Pulse una tecla ...")
  
@@ -71,11 +73,11 @@ for line in Lines:
 campos = ''
 for combinaciones in combina:
     campos = campos + combinaciones+";"
-print "registro;coor_x;coor_y;"+campos
+print "registro;coor_x;coor_y;lux;"+campos
 
 # print info to export
 for row_idx in range(1, numlec+1):
-    for linea in range(0,52):
+    for linea in range(0,53):
         print('{0};'.format(matrix[row_idx][linea])),
-    print('{0}'.format(matrix[53][linea]))
+    print('{0}'.format(matrix[54][linea]))
 

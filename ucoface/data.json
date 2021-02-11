@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.724724591, 
+                    37.914906489
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "nodettn-001", 
+                "type": "Ambient", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.787190557, 
+                    37.875774375
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "wibee-14004-01", 
+                "type": "Energy", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.723496139, 
+                    37.915242941
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "hidro-00000", 
+                "type": "Hidro", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.724684358, 
+                    37.914845123
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "rabanales:parking:0001", 
+                "type": "Parking", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.719067812, 
+                    37.915014408
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "rabanales:sky:0001", 
+                "type": "Sky", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.715269804, 
+                    37.915044032
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "tube-00000", 
+                "type": "Tube", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.721645415, 
+                    37.91568731
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "mkr1300-14004-01", 
+                "type": "Waste", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.714650214, 
+                    37.916184578
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "bin-00001", 
+                "type": "WasteContainer", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.714650214, 
+                    37.916184578
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "bin-00002", 
+                "type": "WasteContainer", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.714400768, 
+                    37.924049414
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "atd-zhumi-001", 
+                "type": "Zhumi", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.714400768, 
+                    37.924049414
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "atd-ztemp-001", 
+                "type": "Ztemp", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.719969034, 
+                    37.921476561
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "atd-ztemp-002", 
+                "type": "Ztemp", 
+                "marker-size": "small"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.107145, 
+                    37.801435
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "orden": 0, 
+                "marker-color": "#7e7e7e", 
+                "marker-symbol": "", 
+                "device": "atd-ztemp-003", 
+                "type": "Ztemp", 
+                "marker-size": "small"
+            }
+        }
+    ]
+}

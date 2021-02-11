@@ -108,5 +108,7 @@ for file in glob.glob("*.xlsx"):
                     aOld = random.randint(aOld_ini, aOld_fin)
                     aVis = (random.randint(aVis_ini, aVis_fin)*1.0)/10
 
+                    if lux.strip() == '':
+                       lux = '0'
                     print('{0};{1};{2};{3};{4};{5};{6};{7};;{8}'.format(line_count,task,aSex,aOld,n_latitd,n_longitd,lux.strip(),lux.strip(),aVis))
 
