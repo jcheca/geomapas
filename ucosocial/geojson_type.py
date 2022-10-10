@@ -5,7 +5,7 @@ import geopy.distance
 
   
 # api-endpoint 
-URL = "https://atdfiware.grayhats.com/orion/v2/entities?type=cesenssul1"
+URL = "https://atdfiware.grayhats.com/orion/v2/entities?type=ztemp"
 HEADER = {
     "Fiware-Service": "smarttrebol",
     "Fiware-ServicePath": "/rabanales"
@@ -25,31 +25,32 @@ features=[]
 orden=0
 while i < len(data):
 
-#  try:
-#     print(data[i]["location"])
-#  except:
-#     break
+  try:
+     print(data[i]["id"])
 
-  valores_leg = []
-  valores_leg.append(data[i]["location"]["value"]["coordinates"][1])
-  valores_leg.append(data[i]["location"]["value"]["coordinates"][0])
+     valores_leg = []
+     valores_leg.append(data[i]["location"]["value"]["coordinates"][1])
+     valores_leg.append(data[i]["location"]["value"]["coordinates"][0])
 
-  properties = {
-     "device": data[i]["id"],
-     "type": data[i]["type"],
-     "update": data[i]["TimeInstant"]["value"]
-  }
+     properties = {
+        "device": data[i]["id"],
+        "type": data[i]["type"],
+        "update": data[i]["TimeInstant"]["value"]
+     }
 
-  geometry = {
-     "type": "Point",
-     "coordinates": valores_leg
-  }
-  punto = {
-     "type": "Feature",
-     "properties": properties,
-     "geometry": geometry
-  }
-  features.append(punto)
+     geometry = {
+        "type": "Point",
+        "coordinates": valores_leg
+     }
+     punto = {
+        "type": "Feature",
+        "properties": properties,
+        "geometry": geometry
+     }
+     features.append(punto)
+ 
+  except:
+     break
 
   i+=1
 
