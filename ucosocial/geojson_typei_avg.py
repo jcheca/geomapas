@@ -23,10 +23,13 @@ data = r.json()
 i=0
 features=[]
 orden=0
+
+print("{},{},{}".format("SensorId","DateTime","Temperature"))
+
 while i < len(data):
 
   try:
-     print(data[i]["id"])
+     #print(data[i]["id"])
 
      valores_leg = []
      valores_leg.append(data[i]["location"]["value"]["coordinates"][1])
@@ -64,6 +67,11 @@ while i < len(data):
         "properties": properties,
         "geometry": geometry
      }
+
+     # CSV Generate
+     for value in range(len(data_proc["data"]["index"])):
+      print("{},{},{}".format(data[i]["id"],data_proc["data"]["index"][value], round(data_proc["data"]["values"][value],2)  ))
+
 
 
      features.append(punto)
